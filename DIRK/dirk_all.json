@@ -25837,20 +25837,6 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F255292_1_488094_639107430264366237.png?width=190"
   },
   {
-    "n": "Lenor Vloeibaar wasmiddel all-in-1 pods zeebries",
-    "p": "2.99",
-    "o": "",
-    "s": "15 stuks",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F220049_1_476646_638797083327469941.png?width=190"
-  },
-  {
-    "n": "Lenor Vloeibaar wasmiddel all-in-1 pods gouden orchidee",
-    "p": "2.99",
-    "o": "",
-    "s": "15 stuks",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F220047_1_476644_638797080230561620.png?width=190"
-  },
-  {
     "n": "Ariel Wasmiddel poeder color 13 wasbeurten",
     "p": "8.39",
     "o": "",
@@ -26059,34 +26045,6 @@
     "o": "",
     "s": "269 ml",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F237230_1_477942_638888595657015872.png?width=190"
-  },
-  {
-    "n": "van 5.79 2 99 Airwick Freshmatic navulling pure lentedauw",
-    "p": "",
-    "o": "",
-    "s": "250 ml",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F204856_1_436595_638664120696905208.png?width=190"
-  },
-  {
-    "n": "van 5.99 2 99 Airwick Freshmatic navulling lavender",
-    "p": "",
-    "o": "",
-    "s": "250 ml",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F204870_1_449291_638664132433814555.png?width=190"
-  },
-  {
-    "n": "van 4.79 2 99 Airwick Freshmatic navulling witte bloemen",
-    "p": "",
-    "o": "",
-    "s": "250 ml",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F218976_1_449292_638766975784301720.png?width=190"
-  },
-  {
-    "n": "van 4.35 2 99 Airwick Freshmatic navulling kersenbloesem",
-    "p": "",
-    "o": "",
-    "s": "250 ml",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F204894_1_466080_638664123730746405.png?width=190"
   },
   {
     "n": "van 3.79 2 99 Airwick Pure luchtverfrisser lentedauw",
@@ -26502,6 +26460,13 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F238613_1_478441_638896413311811393.png?width=190"
   },
   {
+    "n": "Andrélon Shampoo antiroos",
+    "p": "4.49",
+    "o": "",
+    "s": "250 ml",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F238609_1_478419_638896413287898672.png?width=190"
+  },
+  {
     "n": "Oral-B Tandpasta pro expert sensitive",
     "p": "4.65",
     "o": "",
@@ -26649,13 +26614,6 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F246844_1_478683_639014934317538782.png?width=190"
   },
   {
-    "n": "Pampers Baby dry maat 6 valuepack",
-    "p": "19.99",
-    "o": "",
-    "s": "34 Stuks",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F247629_1_475901_639029433090622693.png?width=190"
-  },
-  {
     "n": "Pampers Baby dry maat 4 valuepack",
     "p": "19.99",
     "o": "",
@@ -26668,13 +26626,6 @@
     "o": "",
     "s": "30 Stuks",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F238518_1_475820_638895723237771856.png?width=190"
-  },
-  {
-    "n": "Pampers Baby dry pants maat 5 valuepack",
-    "p": "21.49",
-    "o": "",
-    "s": "37 Stuks",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F247631_1_475903_639029433135577293.png?width=190"
   },
   {
     "n": "Olvarit 12m436 smoothie mango spelt",
@@ -26712,18 +26663,18 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F160296_1_147707_638300414036194402.png?width=190"
   },
   {
-    "n": "Dr. Oetker Aroma amandel",
-    "p": "1.89",
-    "o": "",
-    "s": "38 ml",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F63698_1_417792_638296907671474669.png?width=190"
-  },
-  {
     "n": "Jos Poell Ijswafelbakjes naturel 6 st.",
     "p": "2.35",
     "o": "",
     "s": "78 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F240946_1_473208_638932002245444143.png?width=190"
+  },
+  {
+    "n": "Dr. Oetker Aroma amandel",
+    "p": "1.89",
+    "o": "",
+    "s": "38 ml",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F63698_1_417792_638296907671474669.png?width=190"
   },
   {
     "n": "Dr. Oetker Suikeroogjes",
@@ -27174,8 +27125,8 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F240546_1_481353_638925918216852173.png?width=190"
   },
   {
-    "n": "Quaker Cruesli Zero sugar rozijn & hazelnoot",
-    "p": "3.79",
+    "n": "van 3.79 2 99 Quaker Cruesli Zero sugar rozijn & hazelnoot",
+    "p": "",
     "o": "",
     "s": "400 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F239867_1_482556_638947353191860042.png?width=190"
@@ -27606,13 +27557,6 @@
     "o": "",
     "s": "650 ml",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F202637_1_464796_638654485929502127.png?width=190"
-  },
-  {
-    "n": "van 3.59 1 79 Hellmann's Mayonaise vegan",
-    "p": "",
-    "o": "",
-    "s": "340 ml",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F229794_1_477740_638860224403738959.png?width=190"
   },
   {
     "n": "Van Wijngaarden's Zaanse mayonaise",
@@ -28273,13 +28217,6 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F252540_1_487550_639087375699715166.png?width=190"
   },
   {
-    "n": "Cerrillo Fuet extra naturel",
-    "p": "1.99",
-    "o": "",
-    "s": "150 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F245092_1_484932_638995719406171002.png?width=190"
-  },
-  {
     "n": "Manzanilla Groene olijven zonder pit",
     "p": "0.95",
     "o": "",
@@ -28763,13 +28700,6 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F254274_1_487413_639104619342252358.png?width=190"
   },
   {
-    "n": "van 2.09 99 Unox Good potatoes spek met ui",
-    "p": "",
-    "o": "",
-    "s": "51 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F193227_1_464948_638551644642762539.png?width=190"
-  },
-  {
     "n": "1 de Beste Vrije uitloopei bieslook salade",
     "p": "1.45",
     "o": "",
@@ -29169,13 +29099,6 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F224609_1_465228_638810232836456938.png?width=190"
   },
   {
-    "n": "van 4.49 1 99 Verspakket prei kerriesoep Per pakket",
-    "p": "",
-    "o": "",
-    "s": "",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F179833_1_460769_638412780228857139.png?width=190"
-  },
-  {
     "n": "Eenpansgerecht griekse stijl verspakket Per stuk",
     "p": "4.49",
     "o": "",
@@ -29377,13 +29300,6 @@
     "o": "",
     "s": "255 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F255095_1_488583_639105699364494100.png?width=190"
-  },
-  {
-    "n": "van 5.79 1 99 Van Dobben Oven rundvlees bitterballen",
-    "p": "",
-    "o": "",
-    "s": "300 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F59973_1_394365_637747534094535827.png?width=190"
   },
   {
     "n": "1 de Beste Kipsate in pindasaus",
@@ -30226,69 +30142,6 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F253080_1_489648_639090351807930132.png?width=190"
   },
   {
-    "n": "Bubblicous Strawberry splash 4 st.",
-    "p": "2.29",
-    "o": "",
-    "s": "152 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F224650_1_473571_638810898447899370.png?width=190"
-  },
-  {
-    "n": "Stimorol Kauwgom max peppermint 3 st.",
-    "p": "3.19",
-    "o": "",
-    "s": "54,9 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F224652_1_473576_638810898435078872.png?width=190"
-  },
-  {
-    "n": "Stimorol Kauwgom wild cherry 6 st.",
-    "p": "3.29",
-    "o": "",
-    "s": "84 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F224655_1_473580_638810901158915126.png?width=190"
-  },
-  {
-    "n": "Mentos Pure fresh strong euca-menthol 28 st.",
-    "p": "2.69",
-    "o": "",
-    "s": "56 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F204617_1_471544_638660586689383287.png?width=190"
-  },
-  {
-    "n": "Mentos Pure fresh freshmint 28 st.",
-    "p": "2.65",
-    "o": "",
-    "s": "56 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F207401_1_471543_638683989864883280.png?width=190"
-  },
-  {
-    "n": "Mentos Sour gum green apple 28 st.",
-    "p": "2.69",
-    "o": "",
-    "s": "56 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F221887_1_475633_638786901432770490.png?width=190"
-  },
-  {
-    "n": "Mentos Sour gum strawberry 28 st.",
-    "p": "2.69",
-    "o": "",
-    "s": "56 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F220025_1_475632_638773905349947342.png?width=190"
-  },
-  {
-    "n": "Mentos Gum vibes raspberry 40 st.",
-    "p": "4.55",
-    "o": "",
-    "s": "93,6 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252322_1_487760_639080499543910195.png?width=190"
-  },
-  {
-    "n": "Mentos Gum vibes peppermint 40 st.",
-    "p": "4.55",
-    "o": "",
-    "s": "93,6 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252323_1_487761_639080499661957925.png?width=190"
-  },
-  {
     "n": "1 de Beste Cashewnoten ongezouten",
     "p": "3.19",
     "o": "",
@@ -30308,286 +30161,6 @@
     "o": "",
     "s": "200 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F230205_1_477864_638868969778230929.png?width=190"
-  },
-  {
-    "n": "Lente cremereepjes advocaatsmaak",
-    "p": "1.69",
-    "o": "",
-    "s": "180 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen/noPicture.png?width=190"
-  },
-  {
-    "n": "Van 't Huijs Tulpen melkchocolade gekleurd",
-    "p": "2.99",
-    "o": "",
-    "s": "150 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F217226_1_474497_639041568409733521.png?width=190"
-  },
-  {
-    "n": "1 de Beste Chocolade eitjes massief melk",
-    "p": "4.99",
-    "o": "",
-    "s": "400 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F217215_1_470033_638792778733785666.png?width=190"
-  },
-  {
-    "n": "1 de Beste Chocolade eitjes gevuld assorti",
-    "p": "6.99",
-    "o": "",
-    "s": "750 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252881_1_470031_639086790847393184.png?width=190"
-  },
-  {
-    "n": "Boerderijdieren melkchocolade",
-    "p": "1.39",
-    "o": "",
-    "s": "90 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F247830_1_484591_639041568343736947.png?width=190"
-  },
-  {
-    "n": "Van 't Huijs Lentekuikens wit",
-    "p": "2.99",
-    "o": "",
-    "s": "150 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252889_1_484651_639086790927438853.png?width=190"
-  },
-  {
-    "n": "Van 't Huijs Paashazen melk",
-    "p": "2.99",
-    "o": "",
-    "s": "150 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252887_1_484650_639086790737926231.png?width=190"
-  },
-  {
-    "n": "Crest lieveheersbeestjes netje",
-    "p": "1.39",
-    "o": "",
-    "s": "86 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F247858_1_485708_639041571148703054.png?width=190"
-  },
-  {
-    "n": "Melkchocolade dragee eitjes",
-    "p": "2.99",
-    "o": "",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F247778_1_390504_639041565814547923.png?width=190"
-  },
-  {
-    "n": "1 de Beste Paaseitjes wit massief",
-    "p": "2.49",
-    "o": "",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252868_1_457644_639086709291999112.png?width=190"
-  },
-  {
-    "n": "1 de Beste Paaseitjes karamel zeezout",
-    "p": "2.49",
-    "o": "",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252870_1_457646_639086709355048989.png?width=190"
-  },
-  {
-    "n": "1 de Beste Paaseitjes melk massief",
-    "p": "2.49",
-    "o": "",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252869_1_457645_639086709282694478.png?width=190"
-  },
-  {
-    "n": "Paas assorti",
-    "p": "1.99",
-    "o": "",
-    "s": "105 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F247797_1_470842_639041568320753967.png?width=190"
-  },
-  {
-    "n": "1 de Beste Chocolade eitjes gevuld cappuccino",
-    "p": "2.49",
-    "o": "",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F217078_1_470037_638756421472049340.png?width=190"
-  },
-  {
-    "n": "1 de Beste Chocolade eitjes gevuld melk",
-    "p": "2.49",
-    "o": "",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F217077_1_470036_638756421471934488.png?width=190"
-  },
-  {
-    "n": "1 de Beste Paaseitjes puur massief",
-    "p": "2.49",
-    "o": "",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252867_1_457643_639086709285009346.png?width=190"
-  },
-  {
-    "n": "1 de Beste Chocolade eitjes gevuld melk puur wit",
-    "p": "2.49",
-    "o": "",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F217076_1_470035_638756421570136475.png?width=190"
-  },
-  {
-    "n": "1 de Beste Chocolade eitjes melk wit puur mix massief",
-    "p": "2.49",
-    "o": "",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F217208_1_457647_639041565825643518.png?width=190"
-  },
-  {
-    "n": "Tony's Chocolonely paaseitjes assorti",
-    "p": "3.99",
-    "o": "",
-    "s": "150 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F197512_1_470039_639041568402557595.png?width=190"
-  },
-  {
-    "n": "Mini haasjes holfiguurtjes",
-    "p": "1.49",
-    "o": "",
-    "s": "50 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F250546_1_484633_639064119437211407.png?width=190"
-  },
-  {
-    "n": "1 de Beste Paaseitjes stroopwafel praline",
-    "p": "2.49",
-    "o": "",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252884_1_484638_639086709297416152.png?width=190"
-  },
-  {
-    "n": "Paaseieren",
-    "p": "4.49",
-    "o": "",
-    "s": "400 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F250550_1_484634_639064908271187819.png?width=190"
-  },
-  {
-    "n": "1 de Beste Paaseitjes mix praline melk puur wit",
-    "p": "4.99",
-    "o": "",
-    "s": "400 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen/noPicture.png?width=190"
-  },
-  {
-    "n": "1 de Beste Paaseitjes wit praline",
-    "p": "2.49",
-    "o": "",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252885_1_484639_639086709363049077.png?width=190"
-  },
-  {
-    "n": "BOLCI Dubai paaseieren 120 g. Verkrijgbaar bij geselecteerde filialen.",
-    "p": "3.99",
-    "o": "",
-    "s": "",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F249904_1_487947_639095985323391647.png?width=190"
-  },
-  {
-    "n": "Riegelein Holfiguur konijn met confetti",
-    "p": "1.99",
-    "o": "",
-    "s": "100 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F248174_1_484702_639041568437660893.png?width=190"
-  },
-  {
-    "n": "Hamlet Paasspekken in puntzak",
-    "p": "1.49",
-    "o": "",
-    "s": "250 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252864_1_44838_639086790777652848.png?width=190"
-  },
-  {
-    "n": "Van 't Huijs Lente bokkenpootjes",
-    "p": "1.19",
-    "o": "",
-    "s": "150 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252871_1_459520_639086790728454697.png?width=190"
-  },
-  {
-    "n": "Van 't Huijs Paas crèmespritsen",
-    "p": "1.49",
-    "o": "",
-    "s": "175 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252875_1_459671_639086790810473037.png?width=190"
-  },
-  {
-    "n": "van 1.79 79 Van 't Huijs Lente crèmetaartjes",
-    "p": "",
-    "o": "",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252878_1_459672_639086790776440527.png?width=190"
-  },
-  {
-    "n": "Paashaas holfiguur",
-    "p": "0.89",
-    "o": "",
-    "s": "60 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252883_1_484635_639086790895481111.png?width=190"
-  },
-  {
-    "n": "Van 't Huijs lente donutkoekjes",
-    "p": "1.99",
-    "o": "",
-    "s": "240 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F251175_1_484701_639070014262154177.png?width=190"
-  },
-  {
-    "n": "Van 't Huijs Lente mergpijpjes",
-    "p": "2.29",
-    "o": "",
-    "s": "270 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F220936_1_459948_638792778701642787.png?width=190"
-  },
-  {
-    "n": "Van 't Huijs Cupcakes lemoncurd",
-    "p": "1.89",
-    "o": "",
-    "s": "240 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F220938_1_459950_638798745333338222.png?width=190"
-  },
-  {
-    "n": "Van 't Huijs Kransen lente",
-    "p": "2.39",
-    "o": "",
-    "s": "410 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F220937_1_459949_638792778717742107.png?width=190"
-  },
-  {
-    "n": "Becky's Koekblik bloemen",
-    "p": "2.99",
-    "o": "",
-    "s": "340 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen/noPicture.png?width=190"
-  },
-  {
-    "n": "Van 't Huijs Lente fondantcakejes",
-    "p": "1.89",
-    "o": "",
-    "s": "260 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F221294_1_474488_638786919469236465.png?width=190"
-  },
-  {
-    "n": "Gimme Candy Paasfiguren schuim",
-    "p": "1.49",
-    "o": "",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F221278_1_458929_638785161247074898.png?width=190"
-  },
-  {
-    "n": "Eggs fruit fondant",
-    "p": "1.99",
-    "o": "",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F247834_1_484637_639041568405775326.png?width=190"
-  },
-  {
-    "n": "Paas snoepmix",
-    "p": "2.79",
-    "o": "",
-    "s": "500 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F247833_1_484636_639041568480659114.png?width=190"
   },
   {
     "n": "Lu Tuc minibites original",
@@ -30623,13 +30196,6 @@
     "o": "",
     "s": "125 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F134117_1_425914_638263910603979792.png?width=190"
-  },
-  {
-    "n": "Cheetos Nibb-it rings",
-    "p": "1.91",
-    "o": "",
-    "s": "110 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F162392_1_374339_638218297047022413.png?width=190"
   },
   {
     "n": "Lay's Mama mia's",
@@ -30814,6 +30380,13 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F113624_1_359896_637931367201589779.png?width=190"
   },
   {
+    "n": "Lay's Ribbelchips Max original",
+    "p": "1.85",
+    "o": "",
+    "s": "185 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F118270_1_435877_638294393083804022.png?width=190"
+  },
+  {
     "n": "Autodrop Bosvruchtrode Cadillacs",
     "p": "2.89",
     "o": "",
@@ -30973,13 +30546,6 @@
     "o": "",
     "s": "290 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F193607_1_436167_638549241283748844.png?width=190"
-  },
-  {
-    "n": "Bello Dolce Marshmallows flowers",
-    "p": "1.49",
-    "o": "",
-    "s": "125 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F247817_1_475242_639041568280835379.png?width=190"
   },
   {
     "n": "Look O Look Sweet & sour topmix",
@@ -31379,6 +30945,13 @@
     "o": "ACTIE van 1.95",
     "s": "600 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F128704_1_411015_638058420257191065.png?width=190"
+  },
+  {
+    "n": "Daily Chef Pancakes naturel amerikaanse stijl",
+    "p": "1.59",
+    "o": "ACTIE van 1.89",
+    "s": "160 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F253853_1_485073_639092703235192120.png?width=190"
   },
   {
     "n": "Verspakket bami ketjap Per stuk",
