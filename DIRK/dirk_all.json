@@ -25481,7 +25481,7 @@
   },
   {
     "n": "Bonzo Hondenvoer mini menu kip",
-    "p": "5.35",
+    "p": "5.55",
     "o": "",
     "s": "1,5 kg",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F250289_1_483965_639062229257460137.png?width=190"
@@ -25558,7 +25558,7 @@
   },
   {
     "n": "Felix Kattenvoer droog junior dubbel zo lekker",
-    "p": "2.85",
+    "p": "2.99",
     "o": "",
     "s": "800 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F256843_1_488506_639126156467318278.png?width=190"
@@ -25572,7 +25572,7 @@
   },
   {
     "n": "Felix Kattenvoer droog adult vis",
-    "p": "2.85",
+    "p": "2.99",
     "o": "",
     "s": "800 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F256844_1_488507_639126156739046445.png?width=190"
@@ -26300,7 +26300,7 @@
   },
   {
     "n": "Olvarit Pap drie granen 6+ mnd",
-    "p": "2.35",
+    "p": "2.29",
     "o": "",
     "s": "200 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F226904_1_480041_638852565311888212.png?width=190"
@@ -26769,7 +26769,7 @@
   },
   {
     "n": "New Way Maandverband ultra nacht met vleugels",
-    "p": "0.75",
+    "p": "0.78",
     "o": "",
     "s": "10 Stuks",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F246559_1_484718_639010563348583744.png?width=190"
@@ -26811,7 +26811,7 @@
   },
   {
     "n": "Vaseline original",
-    "p": "3.35",
+    "p": "2.79",
     "o": "",
     "s": "100 ml",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F246844_1_478683_639014934317538782.png?width=190"
@@ -27308,7 +27308,7 @@
   },
   {
     "n": "Quaker Cruesli Roodfruit",
-    "p": "3.49",
+    "p": "3.59",
     "o": "",
     "s": "450 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F180992_1_412529_638422158754267638.png?width=190"
@@ -27413,7 +27413,7 @@
   },
   {
     "n": "Knorr Maaltijdmix macaroni carbonara",
-    "p": "1.59",
+    "p": "1.54",
     "o": "",
     "s": "64 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F237708_1_479229_638893740548572031.png?width=190"
@@ -27595,7 +27595,7 @@
   },
   {
     "n": "GRENADE Protein bar white chocolate salted caramel",
-    "p": "2.89",
+    "p": "2.79",
     "o": "",
     "s": "60 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F256537_1_490856_639123546521339244.png?width=190"
@@ -27637,7 +27637,7 @@
   },
   {
     "n": "Bio+ Soep in zak pompoen",
-    "p": "2.45",
+    "p": "2.49",
     "o": "",
     "s": "570 ml",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F116240_1_417012_637880571814025180.png?width=190"
@@ -28078,7 +28078,7 @@
   },
   {
     "n": "Lassie Zilvervliesrijst builtjes",
-    "p": "1.35",
+    "p": "1.59",
     "o": "",
     "s": "300 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F35741_1_387478_638142975371187447.png?width=190"
@@ -28511,6 +28511,20 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F250266_1_486215_639062232576786441.png?width=190"
   },
   {
+    "n": "van 4.49 3 99 Fresh & easy Poke bowl zalm",
+    "p": "",
+    "o": "",
+    "s": "280 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F224753_1_478610_638814534306972338.png?width=190"
+  },
+  {
+    "n": "van 4.49 3 99 Fresh & easy Poke bowl kip",
+    "p": "",
+    "o": "",
+    "s": "280 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F224752_1_478609_638814534306259375.png?width=190"
+  },
+  {
     "n": "1 de Beste Groene salade caesar",
     "p": "2.89",
     "o": "",
@@ -28637,6 +28651,13 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F247026_1_473400_639015834281492513.png?width=190"
   },
   {
+    "n": "van 1.99 1 49 Bits & Bites Olijven met zachte kaas",
+    "p": "",
+    "o": "",
+    "s": "130 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F226367_1_476224_638826558105345468.png?width=190"
+  },
+  {
     "n": "Kokota Kalamata olijven zonder pit",
     "p": "2.55",
     "o": "",
@@ -28665,11 +28686,32 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F239775_1_443546_638913765626829661.png?width=190"
   },
   {
+    "n": "van 1.99 1 49 Bits & Bites Pesto groen",
+    "p": "",
+    "o": "",
+    "s": "100 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F226324_1_476171_638826588801397174.png?width=190"
+  },
+  {
     "n": "Bits & Bites Dip kaas-pesto",
     "p": "1.99",
     "o": "",
     "s": "100 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F226325_1_476175_638826597561958641.png?width=190"
+  },
+  {
+    "n": "van 1.69 1 49 Bits & Bites Hummus naturel",
+    "p": "",
+    "o": "",
+    "s": "200 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F226326_1_476205_638826555510006892.png?width=190"
+  },
+  {
+    "n": "van 1.99 1 49 Bits & Bites Aioli",
+    "p": "",
+    "o": "",
+    "s": "190 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F226328_1_476207_638826555500416268.png?width=190"
   },
   {
     "n": "Bits & Bites Tzatziki",
@@ -28698,6 +28740,13 @@
     "o": "",
     "s": "90 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F243027_1_479316_638955312325618710.png?width=190"
+  },
+  {
+    "n": "van 1.99 1 49 Bits & Bites Muhamarra",
+    "p": "",
+    "o": "",
+    "s": "150 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F248711_1_482843_639046920439848096.png?width=190"
   },
   {
     "n": "Truffelmayonaise",
@@ -28833,6 +28882,13 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F252809_1_482698_639090345290166847.png?width=190"
   },
   {
+    "n": "Borrelschotel",
+    "p": "4.99",
+    "o": "",
+    "s": "305 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F250666_1_488044_639083190395049420.png?width=190"
+  },
+  {
     "n": "Maggi Bouillonblokjes champignon",
     "p": "1.65",
     "o": "",
@@ -28897,7 +28953,7 @@
   },
   {
     "n": "Knorr Cup-a-soup pittige tomaat 3 st.",
-    "p": "1.99",
+    "p": "1.96",
     "o": "",
     "s": "48 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F250285_1_482553_639062229150343986.png?width=190"
@@ -28953,7 +29009,7 @@
   },
   {
     "n": "Knorr Good pasta carbonara",
-    "p": "1.95",
+    "p": "1.92",
     "o": "",
     "s": "71 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F254273_1_487412_639095133951474793.png?width=190"
@@ -29443,7 +29499,7 @@
   },
   {
     "n": "Daily Chef Pizza salami picante",
-    "p": "5.65",
+    "p": "5.89",
     "o": "",
     "s": "430 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F252701_1_487344_639083901845081128.png?width=190"
@@ -29555,7 +29611,7 @@
   },
   {
     "n": "Verspakket tagliatella pomodoro Per pakket",
-    "p": "4.99",
+    "p": "4.69",
     "o": "",
     "s": "",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F255262_1_460766_639107424639541122.png?width=190"
@@ -29674,7 +29730,7 @@
   },
   {
     "n": "1 de Beste Rode kool met appel",
-    "p": "1.49",
+    "p": "1.54",
     "o": "",
     "s": "800 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F256711_1_483702_639125571414585961.png?width=190"
@@ -30290,7 +30346,7 @@
   },
   {
     "n": "1 de Beste Waterijs pretmix 8 st.",
-    "p": "1.99",
+    "p": "1.59",
     "o": "",
     "s": "366 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F226726_1_478933_638850798565654599.png?width=190"
@@ -30346,7 +30402,7 @@
   },
   {
     "n": "Bounty Reep melk 5 stuks",
-    "p": "3.79",
+    "p": "3.85",
     "o": "",
     "s": "285 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F214312_1_462762_638738244470221310.png?width=190"
@@ -30535,7 +30591,7 @@
   },
   {
     "n": "Kinder Chocolade",
-    "p": "1.15",
+    "p": "1.09",
     "o": "",
     "s": "100 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F153286_1_415488_638301970499512873.png?width=190"
@@ -30633,7 +30689,7 @@
   },
   {
     "n": "Bio+ Chocoladereep extra puur",
-    "p": "2.19",
+    "p": "2.15",
     "o": "",
     "s": "100 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F241028_1_483572_638931774403654120.png?width=190"
@@ -30913,7 +30969,7 @@
   },
   {
     "n": "Lay's Ribbelchips Max original",
-    "p": "1.78",
+    "p": "1.74",
     "o": "",
     "s": "185 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F257246_1_435877_639132258299065089.png?width=190"
@@ -31088,7 +31144,7 @@
   },
   {
     "n": "Jimmy's Popcorn salted caramel",
-    "p": "1.79",
+    "p": "1.95",
     "o": "",
     "s": "150 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F243343_1_484757_638978472332420392.png?width=190"
@@ -31393,41 +31449,6 @@
     "o": "ACTIE",
     "s": "66 stuks",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F254565_1_488634_639117507364849603.png?width=190"
-  },
-  {
-    "n": "Bits & Bites Pesto groen",
-    "p": "1.49",
-    "o": "VR, ZA & ZO ACTIE van 1.99",
-    "s": "100 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F226324_1_476171_638826588801397174.png?width=190"
-  },
-  {
-    "n": "Bits & Bites Hummus naturel",
-    "p": "1.49",
-    "o": "VR, ZA & ZO ACTIE van 1.69",
-    "s": "200 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F226326_1_476205_638826555510006892.png?width=190"
-  },
-  {
-    "n": "Bits & Bites Aioli",
-    "p": "1.49",
-    "o": "VR, ZA & ZO ACTIE van 1.99",
-    "s": "190 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F226328_1_476207_638826555500416268.png?width=190"
-  },
-  {
-    "n": "Bits & Bites Muhamarra",
-    "p": "1.49",
-    "o": "VR, ZA & ZO ACTIE van 1.99",
-    "s": "150 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F248711_1_482843_639046920439848096.png?width=190"
-  },
-  {
-    "n": "Borrelschotel",
-    "p": "4.99",
-    "o": "VR, ZA & ZO ACTIE",
-    "s": "305 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F250666_1_488044_639083190395049420.png?width=190"
   },
   {
     "n": "Unox Soep in zak heldere kippensoep",
