@@ -1,639 +1,814 @@
 [
   {
-    "n": "WAGNER Piccolinis voor EUR 9 De adviesprijs is prijs geadviseerd door fabrikant",
-    "p": "1.99",
-    "o": "Alleen in de winkel 15/06 - 21/06",
-    "s": "9 STUKS",
-    "l": "https://imgproxy-retcat.assets.schwarz/_75YNbL1wklojfU-C6vM94iUDB04cB7uT3WmMbtT2SY/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS83NzUzNjJBNTI4OEI5RTRDQzkyMzk2QkM/yRjA4MDUwQUMyMzc0MDdGNUE5RDkxNjUxNzUxRjM2NzUyNzJERjBFLnBuZw.png"
-  },
-  {
-    "n": "Trostomaten voor EUR -55% Per kg",
-    "p": "0.89",
-    "o": "-55% Alleen in de winkel 15/06 - 21/06",
-    "s": "PER KG",
-    "l": "https://imgproxy-retcat.assets.schwarz/3OJk6mTfqCOOyRYDStDs_QNo0Qvq0dweTB2anFVOnl0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzI1QUIwODYxMUE2QjkwODk4QkYxQzhDMj/ZCNDU0Q0U1QjU0MkI4MjFEMTI2NzI5RTZEMDQwQjRBRTY3RjY0QzgucG5n.png"
-  },
-  {
-    "n": "Kordaat Premium pils voor met Lidl Plus -24% 24 x 0,3",
-    "p": "6.37",
-    "o": "-24% Alleen in de winkel 15/06 - 21/06",
-    "s": "24 X 0,3 L ALLEEN IN DE WINKEL 15/06 - 21/06",
-    "l": "https://imgproxy-retcat.assets.schwarz/xUBHa_fI4JrI33_aeyem2KmERO6wXjtd-rmHd__QsAE/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0ExRkI4OEU1MDQyRDQyQzJFM0Q0NTRDMk/ZBNzBDQkFEMjg1QTgwMjhEQUM0MzlGODY2MEYwREMyRTYwQ0YyMUYucG5n.png"
-  },
-  {
-    "n": "COCACOLA voor EUR Elders: 2 Product gekocht op 02062026 bij Jumbo online",
-    "p": "1.99",
-    "o": "COCA-COLA voor 1.99 EUR COCA-COLA Product gekocht op 02-06-2026 bij Jumbo online Alleen in de winkel 15/06 - 21/06",
-    "s": "2 L",
-    "l": "https://imgproxy-retcat.assets.schwarz/TNuD7i1u1b6ROGUw5KC-1uYPTU6AqXNC6mvWr36W4NM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS81ODUwQTY1MzE3MDhDRTExNThCRkFFMEU/xREM5QkMyRkNEM0FCN0Q0NzFGMzA3OEI5RTU3RUE0MUZGODVDNDRELnBuZw.png"
-  },
-  {
-    "n": "UNOX knaks voor EUR In verschillende varianten -29% 400",
-    "p": "1.79",
-    "o": "-29% Alleen in de winkel 15/06 - 21/06",
-    "s": "400 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/TiYT0YZ8L2w_hd8iNPyUcAxYqQ8yx3BFY6sLz6ojq2A/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS85N0YxOEZFODlBMUVCMzVBNjI0MUNBNUU/wREExMEQyNTlCNjMyQTI4MjdDNEI0NUIwMjBEM0U2RDlGNUJGNjY3LnBuZw.png"
-  },
-  {
-    "n": "Corona Extra voor EUR Mega deal 12 x l",
-    "p": "0.25",
-    "o": "Alleen in de winkel 15/06 - 21/06",
-    "s": "12 X 0,25 L ALLEEN IN DE WINKEL 15/06 - 21/06",
-    "l": "https://imgproxy-retcat.assets.schwarz/x-PKkPXk-Tj4KZtUxwFHCdtoCKy9F5MAU-dzXHasReM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9DNTQ2QURCRDAwNUM4Njc3MUE5QzY3QTV/GQThBNDI2QzhBMTdBMzA1MzdFNjA2NEU3RDY5OTY2QTc1NzlCODhDLnBuZw.png"
-  },
-  {
-    "n": "Fuze Tea voor EUR In verschillende varianten -44% 1,5",
-    "p": "1.69",
-    "o": "tot -44% Alleen in de winkel 15/06 - 21/06",
-    "s": "5 L",
-    "l": "https://imgproxy-retcat.assets.schwarz/tiYyQHLt8iozaNE6Qdd5pgR82vHncZnJsYxQeyL9Y_o/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0REM0Q4QTQwNEI3N0E4MjEyRDRGMEI2OD/EwRTVFQjQ4Rjk0ODVGRjJDNjgzQkEzQzIwRUIzN0Q4OTYwQ0U2QjcucG5n.png"
-  },
-  {
-    "n": "Cashewnoten gezouten voor met Lidl Plus -18% Halve",
-    "p": "4.29",
-    "o": "-18% Alleen in de winkel 15/06 - 21/06",
-    "s": "",
-    "l": "https://imgproxy-retcat.assets.schwarz/crj1M5ArR-fG0sSHCBdQQAQnF6ND5LlqgJWK01S73G0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0YxOTFFRTE2MTI0OUE5MTIwNEVCQkE4Mz/E4ODhBMDdBRjBCQjFEREIzMTM1NDFDMTU3OTQzNzRERTI4NzcyQzQucG5n.png"
-  },
-  {
-    "n": "Kordaat Premium pils voor met Lidl Plus -24% 6pack",
-    "p": "2.92",
-    "o": "-24% 6-pack Alleen in de winkel 15/06 - 21/06",
-    "s": "",
-    "l": "https://imgproxy-retcat.assets.schwarz/OsLtxihW34pCUIhnebxmsREBnQZZzOfY18DnI-X57EU/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0M0OEUyREU3ODBFNDM5MkE2NjZDODdGNj/E0OTE3M0Q0RTM0MEQ2OEJGRDcxQjhFNEI1QjlCNEJGNTI5NEQzODUucG5n.png"
-  },
-  {
-    "n": "PRINGLES voor EUR In verschillende varianten -50% 165",
-    "p": "1.25",
-    "o": "-50% Alleen in de winkel 15/06 - 21/06",
-    "s": "165 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/LqhPwn-vRKo_M-sIk4oP6mDiy9HhvRqzCe_R7puj4BA/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzNBNTIzRTFGOEM3NUNFQzc3QzEyQ0JGNj/Y0MEFGRTNGNENDRThCQzMyRDM0MzQ4ODVCMTZFNkY3MUEyN0JCOTIucG5n.png"
-  },
-  {
-    "n": "Kipfiletblokjes voor met Lidl Plus -30% 400",
-    "p": "4.49",
-    "o": "-30% Alleen in de winkel 15/06 - 21/06",
-    "s": "400 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/7J78di8w45MM7nJaGGoJ9VIE1wxS_t6syosIl8MYgb8/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0NFMDU5MzgzMUM0MDQ4N0NFNDAyMDc1Nk/QzM0NFNjUyRDA5OTkwODAxM0VCNTEwQTEyRDI1MjhCQTlCNUI5ODQucG5n.png"
-  },
-  {
-    "n": "Bio Galiameloen of honingmeloen Matisse voor met Lidl Plus -33% Per stuk Prijsvoorbeeld: Galiameloen. € €.",
-    "p": "1.49",
-    "o": "-33% Alleen in de winkel 15/06 - 21/06",
-    "s": "PER STUK",
-    "l": "https://imgproxy-retcat.assets.schwarz/N9rbraLINq3WETlOIuSo-vCdwJpBB-bGjb73Z7LguBc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhFQzVDQ0FDQTAzMDQ5MDRFNkM2MzJCMD/BFMjI3OTVGNzBFQ0NERjE4MzJFRjMwNDY4RTlEQzRBOENEQkE2QUEucG5n.png"
-  },
-  {
-    "n": "Waikiki, Piel de Sapo of honingmeloen voor met Lidl Plus -28% Per stuk Prijsvoorbeeld: Honingmeloen. Actieprijzen variëren € - €.",
-    "p": "2.49",
-    "o": "-28% Prijsvoorbeeld: Honingmeloen. Actieprijzen variëren van €2.49 - €2.99. Alleen in de winkel 15/06 - 21/06",
-    "s": "PER STUK",
-    "l": "https://imgproxy-retcat.assets.schwarz/__z5ErFFl4UxUY9pzBzeJs4SD1zT7LJcrCFQuTm0eoU/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzBGQjIzRTM4OTY5OTQwODc4MEYzQTIyRj/UwM0QzQ0I0Q0UyRjM4Rjk5RkRCQjVBNDlBMDQwNDRBMEFDRDQ4MjkucG5n.png"
-  },
-  {
-    "n": "Galia- of Cantaloupemeloen voor met Lidl Plus -40% Per stuk",
-    "p": "1.49",
-    "o": "Galia- of Cantaloupe-meloen voor 1.49 Galia- of Cantaloupe-meloen -40% Alleen in de winkel 15/06 - 21/06",
-    "s": "49 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/Bphg576CiD9BFf0t6R6YTjX2Gcl_YsKLiwYTYmFQvWs/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0NEREVEQUU0NzY5QzMyMzJDNTY1M0MxMj/ExRDI1MENFNEI5ODUzOUQwQjczOUM1NzNFREU5RDgzMTk5MEI2RjYucG5n.png"
-  },
-  {
-    "n": "(Bio) Watermeloen voor met Lidl Plus -25% Per stuk Prijsvoorbeeld: Bio watermeloen. € €.",
-    "p": "2.99",
-    "o": "-25% Alleen in de winkel 15/06 - 21/06",
-    "s": "PER STUK",
-    "l": "https://imgproxy-retcat.assets.schwarz/L9FLOSfAJVDqG7K3hZfpRObonjFRA876884nHYBXC3w/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc3RDlCQzY4QTkwMTNGNDMzODc3OTExQz/MzNjhFODM1NDBBMDlEODUwRUMyMzZCMkY4QTE3Q0ZFRTI4NkI3MUEucG5n.png"
-  },
-  {
-    "n": "Watermeloen XL voor met Lidl Plus -20% Per stuk",
-    "p": "9.99",
-    "o": "-20% Alleen in de winkel 15/06 - 21/06",
-    "s": "PER STUK",
-    "l": "https://imgproxy-retcat.assets.schwarz/iMlVP75pQUX7LHcmB7Drv-UcN6af_myP6Uqe97Mes6s/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzJCRDRCRDVFRkI2QzlFOTk4RjY1MTJGMz/I2ODlBREY1NjcyOTQwMTQzRDc0OUE4NkQwQ0U5MThCRDc5RTg2RTQucG5n.png"
-  },
-  {
-    "n": "Courgette of gele voor EUR 40% Per stuk",
-    "p": "0.49",
-    "o": "Tot 40% korting Alleen in de winkel 15/06 - 21/06",
-    "s": "PER STUK",
-    "l": "https://imgproxy-retcat.assets.schwarz/mC_wcwK9uB173RzluIAv2uC3pKjBm2wY2NOut4T69-Q/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0U5OTJDNDVFMjdGNzMwRTMxRTk5QTM3Qk/MwNUJBRjUxRTdGNzM0OUVENjU2MDk0N0M5Mjc4REM2NjExQzQwRDgucG5n.png"
-  },
-  {
-    "n": "Sperziebonen voor EUR -25% Zak 500",
-    "p": "1.49",
-    "o": "-25% Alleen in de winkel 15/06 - 21/06",
-    "s": "500 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/tYR2ypJJv0lIwHNgtiTEszefa7zcbqVozwf9nlymXAM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzYyMERCMzczMEExRDVGMEQxQUUwMjc2OD/dEMjdEQjI5RjRBOUQxQURDMjcxMDUwMzI3NUVCRTJCQ0QyMThDMjQucG5n.png"
-  },
-  {
-    "n": "Bramen voor met Lidl Plus -26% 150",
-    "p": "1.99",
-    "o": "-26% Alleen in de winkel 15/06 - 21/06",
-    "s": "150 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/q2eW7JB8OsTmP1MbKQENe4dAt5qGvguRVy8bc-cHy2Y/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzk2REM1MUJCQTE5QjQ4QzY5NzM4RTFEMD/g3NUM0NzM1RTAzRTJCMEU1QUU2RTZBNDhGMjVDREQ2NDJERDQ0NUIucG5n.png"
-  },
-  {
-    "n": "Zespri kiwi gold voor EUR -34% Per stuk",
-    "p": "0.49",
-    "o": "-34% Alleen in de winkel 15/06 - 21/06",
-    "s": "PER STUK",
-    "l": "https://imgproxy-retcat.assets.schwarz/HU4LM6senhw-iORvUp_wjjD5pLLd3KXJL6ACExJFi3M/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0YwREQxNTQzOUY3NEY0QkM1RjRGQUQwNk/E4MjM4Q0E5MkVGRTZFREYxMTU3MTk2RjhDNTAyRDQxQjY2ODNGQkEucG5n.png"
-  },
-  {
-    "n": "Avocado's voor EUR -33% Net 700",
-    "p": "1.99",
-    "o": "-33% Alleen in de winkel 15/06 - 21/06",
-    "s": "700 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/Y4qfQC53ySD7kbADgtvMnYNXBHLVoaOH7AjeKQy4Sp4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzQ5MzlENzAzOTEzNjZEOTNGRTNDNTM1Qz/gzN0M5M0Y2NDU3MjI0NUEwNTNDRDQ0NjlGN0RCQkYwMjZCMzVERkYucG5n.png"
-  },
-  {
-    "n": "Elstar appels voor EUR -25% 1,5",
-    "p": "1.49",
-    "o": "-25% Alleen in de winkel 15/06 - 21/06",
-    "s": "5 KG",
-    "l": "https://imgproxy-retcat.assets.schwarz/bswcWLlyBX5CrL6SOGweYqNAJVI3_WFGl-IE3rquiDY/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9ENTVEQjUxOTcyNEI3QkYzMkFDN0UwMjA/zQTVFNTkwNkRGMThFNjhEMTYwMEMwRjNBNTJDNDM2OThEMUI1NDEwLnBuZw.png"
-  },
-  {
-    "n": "Radijs voor met Lidl Plus -44% 250",
-    "p": "0.49",
-    "o": "-44% Alleen in de winkel 15/06 - 21/06",
-    "s": "250 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/vWfPPnCDf-h9L5iipcLh-S7tso9Y93DpqrAHIhWD0Y0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0MyREE4OTNBQTFFM0VFMDRFNkQzOEU5Mj/RDMzJBNEJGOTM5REFENTYzOTBCNzYyRUQ4NUNBREYzOEMxRTFGMUIucG5n.png"
-  },
-  {
-    "n": "Cherrytomaten voor met Lidl Plus -30% 250",
-    "p": "0.69",
-    "o": "-30% Alleen in de winkel 15/06 - 21/06",
-    "s": "250 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/aE_L1XMnAYZCsXhCvrtHMGqjFqm-XVzll0bjDs1yRt4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc3RDc4MjZBN0Q1NkNEMTdFMEYzREQwNT/VEMkFGM0FDQUQ4MTFFMDZENjkwMUMyRURCREFEODZDNUZDMTk4NzYucG5n.png"
-  },
-  {
-    "n": "Roerbakmix Thais of Chinees voor met Lidl Plus -25% 400",
-    "p": "1.49",
-    "o": "-25% Alleen in de winkel 15/06 - 21/06",
-    "s": "400 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/5DinNc6rvqPtr_PjhP-_x5gMGilASLFdENnxi77gK9o/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0ExNERDNUU4QUQ2OUFCQ0VGRkE3QkJFMz/kyMjBEQTk0RjkzQjEyMTQ3MkUxRUUwOUZCOEZCMDNBMkY3RDJCNjUucG5n.png"
-  },
-  {
-    "n": "Zoete aardappelfriet voor met Lidl Plus -35% 400",
+    "n": "Desem broden voor In de varianten volkoren, meergranen en wit met Lidl Plus",
     "p": "1.29",
-    "o": "-35% Alleen in de winkel 15/06 - 21/06",
-    "s": "400 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/0BufvetX1ReiO6dtR71KJRDY6gvtG2Y-ZXY-In1KZ_I/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0MxRkVGOUJGRDc2NzM1QUQxNDE4QUU2N0/I4RTQ5NUIzRDMzMjU4OUVBQTJENkYzRDg0NkEzOTI2QTY5QkQ0NkUucG5n.png"
-  },
-  {
-    "n": "Kampioentje voor met Lidl Plus -40% Per stuk",
-    "p": "0.29",
-    "o": "-40% Alleen in de winkel 15/06 - 21/06",
-    "s": "PER STUK",
-    "l": "https://imgproxy-retcat.assets.schwarz/PHvywntln5KtgxEfCNLhhsBw8_hmV1R_vOOcVr5qcN4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0ZGQUU3MjBBQzcxRDAyOTM5M0QxMThCMD/RGMUEwQjNENjFEMjQzQkJFNTFBMzlGRjUzQjlDQkJCREY1M0ZGQTkucG5n.png"
-  },
-  {
-    "n": "Boerenbruinbrood voor met Lidl Plus -28% 800",
-    "p": "0.99",
-    "o": "Boerenbruin-brood voor 0.99 Boerenbruin-brood -28% Alleen in de winkel 15/06 - 21/06",
-    "s": "800 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/uyvFSsDR3TyExfDl8uJMqqtQj-F8HP70v84suim9ELY/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS80MDA1RUZFMzEwNkU0MjlBRDZFNjNCODM/1NUU5RDdCQzNDOUVBNEVFODczQzgyM0EzRDg3N0ZDOUIxRDlFMDdGLnBuZw.png"
-  },
-  {
-    "n": "Ribsnackbroodje voor EUR",
-    "p": "0.99",
-    "o": "Ribsnack-broodje voor 0.99 EUR Ribsnack-broodje Alleen in de winkel 15/06 - 21/06",
+    "o": "-38% Alleen in de winkel vanaf 22/06 - 28/06",
     "s": "",
-    "l": "https://imgproxy-retcat.assets.schwarz/rIS7g1x72kjNxgtypNdwOK6ZIASEOKy9EvFA-JSWOzE/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0FGQUIyMTM0RkQxMEI1MTU4MjVDNzM3M0/VBQjVDRDI3MjRFNzI4MjFENUJGNjUwN0JDRUJERDNDQTFBMkIxNDkucG5n.png"
+    "l": "https://imgproxy-retcat.assets.schwarz/jUUBw5yYIEvHJKfWjZEltG3c7EfiiiyXYzSOzWxe-zg/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZDNDRFQzE4MDMwRjk4OUI1RjVGNjMxQ0/YzQzBFOThFRjI0QzFEQzcxQ0I0OUVGMThBM0M1NDk4QjZBM0MwNDIucG5n.png"
   },
   {
-    "n": "Cookie Dulce de Leche voor EUR",
-    "p": "0.89",
-    "o": "Alleen in de winkel 15/06 - 21/06",
-    "s": "",
-    "l": "https://imgproxy-retcat.assets.schwarz/VIaSmY4qNavBnNZ5PYtl4LENF4AgEXE3Y0yXa2T23so/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzE0NUY4NjBBQUQxQzVFNzZDMjExRUVENU/NEMDFDRDI3OEQ5Mzk4QzQ2QjRDM0MwRTAwMkZCQkNGNDc0QTE2OTMucG5n.png"
-  },
-  {
-    "n": "XL muffin Dulce de Leche voor EUR 130 per stuk",
-    "p": "1.49",
-    "o": "Alleen in de winkel 15/06 - 21/06",
-    "s": "130 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/_LiVtrsDcJ6w7VJzzdhWyMUl7b6IyUA1rh6lrCKjmZE/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzVBMTRCQ0M1NkI0RTI2RUI5Q0FDODA4RE/Y3QUU5RjIxNTg4MjREM0ZEMkJDRTYyMjU1MTMyQUJGQjIzMDEwQjkucG5n.png"
-  },
-  {
-    "n": "Cronut kokos voor EUR Combinatie croissant en donut",
-    "p": "0.99",
-    "o": "Combinatie van croissant en donut Actie Alleen in de winkel 15/06 - 21/06",
-    "s": "",
-    "l": "https://imgproxy-retcat.assets.schwarz/K8EOxsV20-HIfvZw8DaDH85LAZpIDNAPYx_SGh-DQBA/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzFDMTgwNTM1NDc0NEQ0OUQyQzgwMEEwOD/hFODI2NEE5MzEyQjMxRkIzMjVFNzNDOUZBQTZDOUJBNjY3ODE2NTAucG5n.png"
-  },
-  {
-    "n": "Appelcaramel cake voor EUR 350",
-    "p": "2.99",
-    "o": "Appel-caramel cake voor 2.99 EUR Appel-caramel cake Alleen in de winkel 15/06 - 21/06",
-    "s": "350 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/5yp0r_FF--mHMx2iQM1X25Qha07ZxLqiD_Y2G8r9qno/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9CNDFBOEI5NUU4QUUzQUVFNUY1QUFCN0F/CNkJDRjg1RENBMzY5NkU2MDIyODVFN0Y0QjA2MTRFQjEyNDQxMkUzLnBuZw.png"
-  },
-  {
-    "n": "Zigeunergehaktschnitzels voor EUR 31% goedkoper 800 Prijs vergeleken met inhoud reguliere verpakking",
-    "p": "4.99",
-    "o": "Alleen in de winkel 15/06 - 21/06",
-    "s": "800 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/pEk2wyrkGSFaA4yrWZiTXo0ky6Txuxt8vsOu4FyFlNE/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0RCOUZGNTFCQ0RGOENGRkIxMUYzQ0I3MD/I5MjBEMkZFOTc5RUE2QTNGNTlFMEVFRDc5QTk2RkIwQjU1ODAzREUucG5n.png"
-  },
-  {
-    "n": "Extra mager rundergehakt voor EUR 32% goedkoper 750 Prijs vergeleken met inhoud reguliere verpakking",
-    "p": "7.99",
-    "o": "Alleen in de winkel 15/06 - 21/06",
-    "s": "750 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/svwGMbHYHF0LOxBV4UKJZfNTG6jMeUG2mbTZzk6nM_E/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9DNUY4MzU5NzM2QjQzNjAxMkEyQ0FBMDg/3NUM2RDdGRTBFNTFFNzgyQkY4RjM2NTA2QjJBNDc2OTVBRUIwRDQ5LnBuZw.png"
-  },
-  {
-    "n": "Kipfilet voor EUR 25% goedkoper 200 Prijs vergeleken met inhoud reguliere verpakking",
-    "p": "2.39",
-    "o": "Alleen in de winkel 15/06 - 21/06",
-    "s": "200 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/lrPu9HR1lPsBUpDjvLnohSN9hvuHTsprVjv1ErXmtYE/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8wOThBREJCMUJBOUFFMDNDREVBNzZCQTR/GQThFQjQxNURCMUU0Qzc4Qzg5OTg1NTg1N0UyNjVFMkIzNENEMkNCLnBuZw.png"
-  },
-  {
-    "n": "Schouderham voor EUR 11% goedkoper 200 Prijs vergeleken met inhoud reguliere verpakking",
-    "p": "1.49",
-    "o": "Alleen in de winkel 15/06 - 21/06",
-    "s": "200 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/RfFiwC6iNKpHQED9BZCMjLsQkQLtgiD65Tq41tNVMzs/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS83NjYwQTFDMzBGQUM0RjU5NzExMTE4Mjl/BODQwNUU0ODhENTgxMEIyNUVCMkU4MThDRjY4MDIzQzdGQkRCMEU4LnBuZw.png"
-  },
-  {
-    "n": "Yorkham voor EUR 14% goedkoper 150 Prijs vergeleken met inhoud reguliere verpakking",
-    "p": "2.19",
-    "o": "Alleen in de winkel 15/06 - 21/06",
-    "s": "150 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/8iKnadv9IjGlAdEOHudd8UjzawVWlxaK1fCS3kTUrtE/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9DNDE1RTE2QjdGNzg0Nzk2QzM4MDdCN0E/xMjFGOUVDREU5NjUwNDcwRjZBQ0E5MUQ1Q0QwOTM5QTEyOEI3OENDLnBuZw.png"
-  },
-  {
-    "n": "Kipdijschotel nacho stijl voor EUR Verkrijgbaar vanaf woensdag 400",
-    "p": "5.49",
-    "o": "Verkrijgbaar vanaf woensdag 17.06 Alleen in de winkel 15/06 - 21/06",
-    "s": "400 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/GYussQrBZLVwEIwzemP4vwQfQEyNHuwkrYGkcSLyPQg/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9CQTZFRTcxQzNBNkQzQkVCODVGNzkyNkN/DODAxRjdCREE0OTBDREM5NDdGOERFQzk5NDM0MkE5NEMyQTQ0NzdCLnBuZw.png"
-  },
-  {
-    "n": "Goudse belegen plakken 48+ voor met Lidl Plus -22% 14",
-    "p": "3.35",
-    "o": "-22% Alleen in de winkel 15/06 - 21/06",
-    "s": "35 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/bFvEX5u_Vor87gadA8USALxhL5oXK_dYPo1rsOqmQxs/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzEzRjY5MjIyNkUwQ0M3Nzk1NjcxQjBGOT/YyRDJFQUZCOUZFNkRDRUFBQTNDRjBEOEMxN0M3MjIxOUQ5QzAwNEMucG5n.png"
-  },
-  {
-    "n": "Luxe crackers voor met Lidl Plus -29% Prijsvoorbeeld: Kaas. Actieprijzen variëren € - €.",
-    "p": "1.29",
-    "o": "-29% Prijsvoorbeeld: Kaas. Actieprijzen variëren van €1.29 - €1.46. Alleen in de winkel 15/06 - 21/06",
-    "s": "29 L",
-    "l": "https://imgproxy-retcat.assets.schwarz/EJBhuMO37fuUS0mtkDfXYpJqRkkYlZzQuXiY-qRQ7BU/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0ExNkI2MzZGNjQxQzZENzgwQTZGMjc1RE/FGNTlGMzMxRTQ3RjYwMjY4RjFFQzMwNEVEQzAwRTAzRjc4ODdFRjYucG5n.png"
-  },
-  {
-    "n": "Hamburger gegaard voor met Lidl Plus -29% 320",
-    "p": "2.39",
-    "o": "-29% Alleen in de winkel 15/06 - 21/06",
-    "s": "320 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/pEuw18ng-ezxu1afjefFdldXTz9rdI9cLtCK-6l60WE/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzEyQjhFMUExREZCMEVEQjg1REI2NTI2Mz/g5OTc2Qzg3ODU1MkQ4NzY1RTkyMkJFOUM1RTU4RTBGNUZGRjIxMUQucG5n.png"
-  },
-  {
-    "n": "Speklap gemarineerd voor met Lidl Plus -25% 375",
-    "p": "2.99",
-    "o": "-25% Alleen in de winkel 15/06 - 21/06",
-    "s": "375 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/WzFZcTlWV8eTWRRxKX-LnzVEDJplFO90zaxafXsx0AQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Q1RTUwM0U3Q0NBNTg5RjcwMURCQzlGNT/IwOURFOENEOTBEMDJFRTU1REI4RTE1OUVENkJBODlDNUU1NjMxNEEucG5n.png"
-  },
-  {
-    "n": "Kipgehaktspies nacho voor EUR Verkrijgbaar vanaf woensdag 300",
-    "p": "3.99",
-    "o": "Kipgehakt-spies nacho voor 3.99 EUR Kipgehakt-spies nacho Verkrijgbaar vanaf woensdag 17.06 Actie Alleen in de winkel 15/06 - 21/06",
-    "s": "300 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/G9NyW9Hed-LPIK1k5pJh7qaPYNWJ-1wKN9ivhjujT5E/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS80QTFBMzFERTExQUQzOTA4OEYyMTk3NTY/0QzBEM0M4QTYzRUVERjMwMzdEOTQyMERCMTQ4MTY2QkFDMTQxQUM0LnBuZw.png"
-  },
-  {
-    "n": "HERTOG JAN of LEFFE BLOND voor EUR VANAF Prijsvoorbeeld: 6 x L. Actieprijzen variëren € - €.",
-    "p": "0.33",
-    "o": "VANAF Prijsvoorbeeld: Hertog Jan 6 x 0,33 L. Actieprijzen variëren van €4.99 - €6.74. Alleen in de winkel 15/06 - 21/06",
-    "s": "6 X 0,33 L. ACTIEPRIJZEN VARIËREN VAN €4.99 - €6.74. ALLEEN IN DE WINKEL 15/06 - 21/06",
-    "l": "https://imgproxy-retcat.assets.schwarz/C_a3W_My7PNUA_xgTswMuae8OSUgbJWNEOjmR7SS0Ng/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9FN0Q0MjQzNENCOTIzQkUzNjcwNzE4QkE/5ODc5RDVCMEZCMjhENkE3MzJDMDBDQjkxMkMzQ0YyN0RENzQxNUI0LnBuZw.png"
-  },
-  {
-    "n": "LEFFE BLOND 0.0% voor EUR -50% 6pack",
-    "p": "4.25",
-    "o": "-50% 6-pack Alleen in de winkel 15/06 - 21/06",
-    "s": "",
-    "l": "https://imgproxy-retcat.assets.schwarz/AyJin8we_JxUeIJokU0UTLz0rN4mbExmmM8P_j6LPiQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS84RkRFNjZENjFEMTJFNDBCQTQ4NTBGM0U/yOUFDMDlDMzZFOTgyNDAxNDcxQjg1MDBGQzA2ODAzQThDRjNBQ0Q5LnBuZw.png"
-  },
-  {
-    "n": "Pinot Grigio rosé voor met Lidl Plus -25% l",
+    "n": "Alle Solevita limonade siropen voor In de varianten met en zonder suiker Lidl Plus -46% l - 28/06",
     "p": "0.75",
-    "o": "-25% Alleen in de winkel 15/06 - 21/06",
+    "o": "tot -46% Alleen in de winkel vanaf 22/06 - 28/06",
     "s": "75 L",
-    "l": "https://imgproxy-retcat.assets.schwarz/3UHZUvPMwZShgdm3zOhXTMJmeOm5qw6cIjsgffPB1zk/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0U3MEJBQ0VBQUFDQUFEMjg4RTBDQzAxRD/gzRkFBNzJEMkZCMUQ2NDRENjVGNTFFMTEwOENBQUVEMURFRThENDMucG5n.png"
+    "l": "https://imgproxy-retcat.assets.schwarz/eb7-P4VAkIILWwZTwM331ge9rrcE8OWgW_4AjTHFwTw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzQyQTE5QTFBRDIzOEE3RjNDNEMzMkI5Mk/YzMkE1ODlDQjRBMUQxOUE0M0JDNzgxMjczNzUxNjY3NzhCNzQwMzAucG5n.png"
   },
   {
-    "n": "Steam Brew IPA of Session voor In verschillende varianten met Lidl Plus -20% 0,5",
-    "p": "0.99",
-    "o": "-20% Alleen in de winkel 15/06 - 21/06",
-    "s": "5 L",
-    "l": "https://imgproxy-retcat.assets.schwarz/f7ARifbv5dBjti43WFAj1Mo6_sRgcrZAr16Ku_StfxY/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzdBM0VCRDk3RjUwODVDQUMwNzlGNjFGOE/NBREE0NjYxMzk5OTRFQ0ZERDkyMUI3MUNBMjNBRjc2RjQxRDc0MEEucG5n.png"
-  },
-  {
-    "n": "Plantaardige champignonburger voor met Lidl Plus -28% 160",
-    "p": "1.79",
-    "o": "Plantaardige champignon-burger voor 1.79 Plantaardige champignon-burger -28% Alleen in de winkel 15/06 - 21/06",
-    "s": "160 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/s-bwKuaqHF7JTsBiSk02rnPDcNlhlLo55S9dulwQwbA/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZFRjAzQTIyRTU4MDJFMzk1N0RDRDE1MD/RGOEZCQzk0MTY1Mjc3QkEyQUU5NjM0QTA1MzRBM0U2NEVFNjE4OUYucG5n.png"
-  },
-  {
-    "n": "PATURAIN knoflook & kruiden voor EUR -28% 250",
-    "p": "2.99",
-    "o": "-28% Alleen in de winkel 15/06 - 21/06",
-    "s": "250 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/gkoY6qYWvokGQUP11_P5WstWFwqxGoRsEe8il864bDM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9BQTgwQkU1RkFBOTRFOTg2QkMyMDBEQzF/DNEY4RDZBREQzQjUxNkE0RDM1MDdFRjE2Q0Q5RTJDQkU2M0QxODgwLnBuZw.png"
-  },
-  {
-    "n": "Afbakbroodjes voor In verschillende varianten 46 met Lidl Plus -38% Prijsvoorbeeld: Kaiserbroodjes. Actieprijzen variëren € - €.",
-    "p": "0.69",
-    "o": "4-6 stuks tot -38% Prijsvoorbeeld: Kaiserbroodjes. Actieprijzen variëren van €0.69 - €0.99. Alleen in de winkel 15/06 - 21/06",
-    "s": "6 STUKS",
-    "l": "https://imgproxy-retcat.assets.schwarz/w43m0V4XrSfxAlHiProRAvt_cs-VRbpDglGSouPSfmk/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0IwNjk2NUY4NkYzRTI4NTc2MjQ3N0RGRD/U0ODczMTE2QjFGRjk5MTk3RUNBQThEODU4MTNDNThBRTBEQzZDQUEucG5n.png"
-  },
-  {
-    "n": "Koffie Goud voor EUR -38% 500",
-    "p": "4.99",
-    "o": "-38% Alleen in de winkel 15/06 - 21/06",
-    "s": "500 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/Rs5lwBZwamA8SL5WVfKkpVegr5wCrrb2n9xnps2Jwe8/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0RDODBBOTZERjM0RUY4NjYyMkY5Q0IwOU/NEQzJGMzk0Nzg0NENFQkUwRjUzMjdFNjQ3OTZGNDA2QzNGNDk2OUQucG5n.png"
-  },
-  {
-    "n": "Verse sappen of smoothies voor met Lidl Plus -35% 500",
-    "p": "1.69",
-    "o": "-35% Alleen in de winkel 15/06 - 21/06",
-    "s": "500 ML",
-    "l": "https://imgproxy-retcat.assets.schwarz/x_GjQri28jUsyVPlXli5V2j3Vi9QgAekBT9GcgalQz4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0VBMzgwQUEzNjBGQTgwQTIwMTk3MTM4NT/VDMDAxQkVFNTM4MTZDM0UzMTJFNEUwRkM1NzZBQjA3RkFCN0JBNkYucG5n.png"
-  },
-  {
-    "n": "NIXE Tonijn in blik voor met Lidl Plus -16% 185195",
-    "p": "1.49",
-    "o": "-16% 185-195 g Alleen in de winkel 15/06 - 21/06",
-    "s": "195 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/gjBAkasKtElMtQjp07yjEw5Wl1I4L4S-tP-5Dx2Gfoc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc5M0JEOUU3MTAyQUVFNzE2QzUyQzc4Qz/EyNDY5MEM5MTdDMUM5OTkyRjU0RDIwOTc2MjExMDRFMDQwNkI1NUQucG5n.png"
-  },
-  {
-    "n": "CAMPINA Vla voor EUR In verschillende varianten 1",
-    "p": "1.49",
-    "o": "Product gekocht op 26-05-2026 bij AH online. Alleen in de winkel 15/06 - 21/06",
-    "s": "1 L",
-    "l": "https://imgproxy-retcat.assets.schwarz/xQv2jvqpfwIOi1Ym8mHpY3ZmCEqXXtKnIDWhtpB1e5o/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0I5RTY2RTFCREU4REM1RTRBMkRCRkQxQj/Y4ODQyNjE3OTMzMjU0NkM0QzU0QzBDOTI2RjlBRjQyNzg1RDA4NTcucG5n.png"
-  },
-  {
-    "n": "DETTOL voor EUR 500 - 1000 / 110 VANAF Prijsvoorbeeld: allesreiniger. Actieprijzen variëren € €. Product gekocht op 26052026 bij AH online",
+    "n": "Braadworsten voor met Lidl Plus -37% 400 - 28/06",
     "p": "1.99",
-    "o": "500 - 1000 ml / 110 stuks VANAF Prijsvoorbeeld: Dettol allesreiniger. Actieprijzen variëren van €1.99 - €3.29. Product gekocht op 26-05-2026 bij AH online Alleen in de winkel 15/06 - 21/06",
-    "s": "1000 ML",
-    "l": "https://imgproxy-retcat.assets.schwarz/qC0joKh7i8224wx1Ma6aKjFU_gEm1aqfD6srj0svtE8/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9CNjgyMjZCQTIxNjgzMEY5QzkyMzI5REQ/3MjZDNDJGMkNFNTcyQUUwQjQzMUMwNjRDMzg4REFCMjUyNDA4OEQxLnBuZw.png"
+    "o": "-37% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "400 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/Zv5MBWCgNaaWhyH3Mu8lVuu1LASWEpjVJoilCPpthw8/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0NDQzM2NTE2M0Y0ODZGQzc3RjBCOEE5Rk/ZGNDJBOTM1RjQxQ0JDMjgzN0ZGQUU4QzExNzY4MzAwODE4Njg0RkQucG5n.png"
   },
   {
-    "n": "ROBIJN wasmiddel voor EUR Elders 22 wasbeurten",
-    "p": "5.99",
-    "o": "Product gekocht op 26-05-2026 bij AH online Alleen in de winkel 15/06 - 21/06",
-    "s": "",
-    "l": "https://imgproxy-retcat.assets.schwarz/T8U6jsSMzsqh1lpNADbZqybkWrct4r1isGp9rhjHRM0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS82N0UzRUMwQkI3Qjg2QTFFMTM1NEVFQUY/5MzU3MUYyRkU0MEZEOTYzMkNCMjkxQUQ0NThEMDA0RkRCNDcyNDk4LnBuZw.png"
-  },
-  {
-    "n": "Koffiedrank voor EUR 13% goedkoper 370 Prijs vergeleken met inhoud reguliere verpakking",
-    "p": "0.99",
-    "o": "Alleen in de winkel 15/06 - 21/06",
-    "s": "370 ML",
-    "l": "https://imgproxy-retcat.assets.schwarz/YevAoyUkVHqv0-7oKebeeZM2oh4ivGkRejuugh9VkyU/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0YxREEyMzkxQkQzQzFCQUVCRkFCRjhBMj/JENjAyNTg5M0Q5MkRBODU2MTEyODZBRjNBQTgyRTg1NjRFMTMwQTIucG5n.png"
-  },
-  {
-    "n": "Verse pasta's voor EUR VANAF 250",
-    "p": "1.19",
-    "o": "VANAF Alleen in de winkel 15/06 - 21/06",
-    "s": "250 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/GBI6z6BMtz1Iczg5lRh__I1hI5GaWTK788Mt-xrL2M4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzM3QTRGMzdBMjhDRDQ5Mzk2MkIxRTcwRE/UzOTY0RTE4MTc2OTYzOURGRkIwRDA2MDQ5RjM2MzQ2OEMxNDExQzQucG5n.png"
-  },
-  {
-    "n": "MILKA voor EUR In verschillende varianten",
-    "p": "1.29",
-    "o": "90-100 g Alleen in de winkel 15/06 - 21/06",
-    "s": "100 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/vvkZBCM_g3i4oNDdJf57V6QeVEGGs8NQ-7xG06gr418/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9FNjk3NTU1M0YyQzFGM0JCRjU2MzUwQ0E/5NUQ0QjU5MUJGMTA0MEMxMENGNjI2RkRDMTcwNjQ5ODY2RjM1REYzLnBuZw.png"
-  },
-  {
-    "n": "TAKSI voor EUR -41% 1,5",
-    "p": "0.99",
-    "o": "-41% Alleen in de winkel 15/06 - 21/06",
-    "s": "5 L",
-    "l": "https://imgproxy-retcat.assets.schwarz/fdWyZqGfpE_b8-M5PRInu1snohwnzvvMcoW2EIukOSY/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS83MjdGMjkzRDk1MUQwMzZDQTEyQzkxNDc/5MjZFQTQxOEI1NzE0MEUyNDBEMjA2OTNBNEJFNTBFMTQwRjY1QTU1LnBuZw.png"
-  },
-  {
-    "n": "RAAK Vruchtensiroop voor EUR In verschillende varianten -19% 750",
-    "p": "2.49",
-    "o": "RAAK Vruchten-siroop voor 2.49 EUR RAAK Vruchten-siroop -19% Alleen in de winkel 15/06 - 21/06",
-    "s": "750 ML",
-    "l": "https://imgproxy-retcat.assets.schwarz/8VyC1MVlwfakruqwcJxnfJoS-MReh5kd8jr0YDxNLh4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhGMzIwMzk4RDY5QkI3ODlFNDREMzZEN0/Y1OEU4Rjg1QTVFQzQyMzY0OTA5MTJDMjM3MDY5MkQ4Qjc5RTRGRDEucG5n.png"
-  },
-  {
-    "n": "SMIRNOFF, GORDONS of CAPTAIN MORGAN voor EUR In verschillende varianten VANAF 250700 Prijsvoorbeeld: pink & tonic. Actieprijzen variëren € - €.",
-    "p": "1.69",
-    "o": "VANAF 250-700 ml Prijsvoorbeeld: Gordons pink & tonic. Actieprijzen variëren van €1.69 - €2.99. Alleen in de winkel 15/06 - 21/06",
-    "s": "700 ML",
-    "l": "https://imgproxy-retcat.assets.schwarz/8OYSF8dXMxx4RU30eZg5i08ga9EbrRzaYYhq9X_DqyQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS80MTk0M0Q2Qzg4MUVBMTNCMDY5NTNGRTA/1NUQ5QkRFODE3Q0Q2MDkzNTA5QzFBQTMyNkUyQUE3MUZDQkNFOTA2LnBuZw.png"
-  },
-  {
-    "n": "NISSIN Cup Noodles voor EUR In verschillende varianten Elders",
-    "p": "1.49",
-    "o": "63-67 g Product gekocht op 26-05-2026 bij AH online. Alleen in de winkel 15/06 - 21/06",
-    "s": "67 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/Eb0Os0mhzOLiGOvbtmsp3YTzZQu3rbNh-6IPjEEh_B8/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9FRUQ1NjkwQUFENDE4NUJFMjM2MTUxOTQ/zQjI0NDY3MDY3ODk4Mjg2OEE2MDFFRjE3RThFRTg4NDZGQzlGQzlDLnBuZw.png"
-  },
-  {
-    "n": "IJs met chocolade op stok voor EUR 612 VANAF Prijsvoorbeeld: classic. Actieprijzen variëren € - €.",
-    "p": "1.75",
-    "o": "6-12 stuks VANAF Prijsvoorbeeld: IJs met chocolade classic. Actieprijzen variëren van €1.75 - €3.91. Alleen in de winkel 15/06 - 21/06",
-    "s": "12 STUKS",
-    "l": "https://imgproxy-retcat.assets.schwarz/F97yJjL-z3xdOT2SvmlSwZy0LU7fH4LtxL7gHgrq0wQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZFNDgwM0MyREMzQkMxNDcyOEE4QUQyOD/FCODA3MjE1QjdBNDExNTQwMzk4NTY4RUExRDVFMzBFQzVCREY3MEQucG5n.png"
-  },
-  {
-    "n": "LAY'S Max voor met Lidl Plus -27% 185",
-    "p": "1.19",
-    "o": "-27% Alleen in de winkel 15/06 - 21/06",
-    "s": "19 L",
-    "l": "https://imgproxy-retcat.assets.schwarz/-WO_dw0Ys0XCxFSb96oqahAK4Avozj0huhXQV-D679E/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS84RUYyQzc2MkQ5RThBRTgwN0I4NTY5MER/GOTA0MEQzQzg3Mzg4RDI1QUYxMDBEMDRFNDY0NDkwNEQ3QTY1RTE3LnBuZw.png"
-  },
-  {
-    "n": "Snackmix voor EUR 500",
-    "p": "3.49",
-    "o": "Alleen in de winkel 15/06 - 21/06",
-    "s": "500 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/Yw3x5tvVJgpI0zFz3bHA08qKPpmNLWJAp49Z99BIHtE/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzBGQjk2RTcxRTY1OEREQUZEMDVDRTUxOD/Y2RTcwQzRFRkQxQkY5NkM0REYyMzk5N0QyMUE3MEFFQTEzOUZGMDEucG5n.png"
-  },
-  {
-    "n": "Anjer Pink Kisses voor EUR Potmaat: 9 x cm Hoogte: ca. 20 Tray 6",
-    "p": "5.99",
-    "o": "Actie Alleen in de winkel 17/06 - 21/06",
-    "s": "9 X 9 CM HOOGTE: CA. 20 CM ACTIE 5.99 TRAY 6 STUKS ALLEEN IN DE WINKEL 17/06 - 21/06",
-    "l": "https://imgproxy-retcat.assets.schwarz/ZXmOx0zo65nLsT9kpXLy4m2SywqJcBSRUNq1VARlx7A/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzIzMzk2MDJDRkE3NDZFRTRFRkE1QjREND/dGNzFDNUY0QzVCRkNDNDIxMjBCRTQ5M0IzQ0JGNjE4QjczNUE2NTgucG5n.png"
-  },
-  {
-    "n": "Mediterrane plant voor EUR In de varianten citrus, mandarijn, olijf en vijg Potmaat: 9 x cm Hoogte: ca. 30",
-    "p": "2.99",
-    "o": "Alleen in de winkel 17/06 - 21/06",
-    "s": "9 X 9 CM HOOGTE: CA. 30 CM 2.99 ALLEEN IN DE WINKEL 17/06 - 21/06",
-    "l": "https://imgproxy-retcat.assets.schwarz/qQo1Me0RwUGNMOfG-M7g5tkofIUvrFTMTMuySey2evM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0FFOUE1QTFGNzBERDIzRTk3NjkzMjM5QT/dCMUQ2RkFFMEMxRDUwMzNFMTFDRjJDNDlGMDYwNEM4M0M0RkUzMzUucG5n.png"
-  },
-  {
-    "n": "Grootbloemige trosroos voor EUR Potmaat: Ø 19 cm Hoogte: ca. 45 Ideaal in de border",
-    "p": "6.99",
-    "o": "Alleen in de winkel 17/06 - 21/06",
-    "s": "",
-    "l": "https://imgproxy-retcat.assets.schwarz/7lF8PvT9-p9203uHlBgQXWXjt-vFr_kE8XTSYJr8gqw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzBCOUM4Q0U1ODc2N0M0MDBEODNEMDM2OE/ZFRjYwOUU0NTQwMDQ3MERCRTI4NzVFOEU0Q0ZGRjdBOTZEMzFGRTIucG5n.png"
-  },
-  {
-    "n": "Phlox voor EUR Potmaat: Ø 13 cm Hoogte: ca. 32",
-    "p": "2.99",
-    "o": "Alleen in de winkel 17/06 - 21/06",
-    "s": "",
-    "l": "https://imgproxy-retcat.assets.schwarz/KkL-2-W7wBHXaE2fYvhvJn47hB7RFQXQGYnbTa2kxVk/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzQzNjBCQzZCMzQxRjQwRkVFRjBERTMxRT/cyRDQwRjVDNjcyNkIxQjJBMEY5MzBCRjAyRjdGRkI2NTQwQTBBNEMucG5n.png"
-  },
-  {
-    "n": "Alle zonnebrand voor Cien Sun met Lidl Plus 33% Prijsvoorbeeld: After Spray 200. Actieprijzen variëren € -",
-    "p": "1.32",
-    "o": "33% KORTING Prijsvoorbeeld: After Sun Spray 200 ml. Actieprijzen variëren van €1,32 - €4,66 Alleen in de winkel 18/06 - 20/06",
-    "s": "200 ML",
-    "l": "https://imgproxy-retcat.assets.schwarz/TSdmAqrgd1rPuDetqn8kjrjcpmsYetXmJ0OIQygCpH8/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzMyNzZGQjExNUVBRTdBQTdCRkZFNDI5Nk/QzRjAyMzRGMTMwNzcyM0Q5RUE4ODREODMxOTFBM0NCQzkzNjhFNDEucG5n.png"
-  },
-  {
-    "n": "Kamerplant in pastel keramiek voor EUR Potmaat: Ø 10,5 cm Hoogte: ca. 22",
-    "p": "3.99",
-    "o": "Alleen in de winkel 19/06 - 21/06",
-    "s": "",
-    "l": "https://imgproxy-retcat.assets.schwarz/9Wrwbw9BV9Wjga3PgVdeYjmGmZFJeAVANMDs-YniqKk/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc4NkYwOUFGQ0VEMkNEQ0REQjU1OUQzNU/VBMTc0ODgzQ0U2RDlBNDQwREEyMkVFRDAyNzYyOTFGMzQyMjBDMkEucG5n.png"
-  },
-  {
-    "n": "Seizoensboeket voor EUR Inhoud boeket kan variëren 14 stelen",
-    "p": "4.99",
-    "o": "Alleen in de winkel 19/06 - 21/06",
-    "s": "",
-    "l": "https://imgproxy-retcat.assets.schwarz/CLPY_0BZXgPhK6-WB61AchOugp2TZt7Dk3GYD7BGrI0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0RFNDExQ0RFMEU0OUUwNzM1RDI5M0YyMD/lBNDA5NkVDRkMxOERCQjc5MTIzQTMzRjlERTBEMkI2NEE4MjZEQkUucG5n.png"
-  },
-  {
-    "n": "Cactus of vetplant voor EUR Potmaat: Ø 12 cm Hoogte: ca. 20",
-    "p": "2.99",
-    "o": "Alleen in de winkel 19/06 - 21/06",
-    "s": "",
-    "l": "https://imgproxy-retcat.assets.schwarz/lxtneMDTp-R-i2O7xo68ka-i-DekXn9IqvWB-VJC-hM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzRDRTE4OTk3NERFMUM5NkExMzU4RDRFMU/U2MjIwMUVDMzM0MEZDQTEzQUFBRTdGMDcyQTcwOUU1RUE0RkVDMjUucG5n.png"
-  },
-  {
-    "n": "ALMHOF Volle kwark aardbei voor EUR -31% 500",
-    "p": "1.99",
-    "o": "-31% Alleen in de winkel 19/06 - 21/06",
-    "s": "500 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/_DMnuMYdh8QQGbad5jBdG0Nm-zOxhO6knOE474vy1pw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS81NzM1MjQ0RjUyMTZGRUFGMjBBQkY4OTV/DNkNDN0RGMjkwQUU4RTEzRjY2MDQxODlEMzA4MjU0RDI3NTVFRDczLnBuZw.png"
-  },
-  {
-    "n": "LIPTON Ice Tea Green voor EUR -26% 6 x 330",
-    "p": "4.99",
-    "o": "-26% Alleen in de winkel 19/06 - 21/06",
+    "n": "AMSTEL Radler 0.0 voor EUR -49% 6 x 330 - 28/06",
+    "p": "2.95",
+    "o": "-49% Alleen in de winkel vanaf 22/06 - 28/06",
     "s": "6 X 330 ML",
-    "l": "https://imgproxy-retcat.assets.schwarz/KJ3uffDyoXl6q-1c-bHNvjjaV_r8dwwHnJKX_r1DzCE/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc1NTZDNDdBMkFFMDRENjE2NTRBMzM0Q0/VFMENCNTJDRTZDQUU5QTBGQjQ1QTY4NzNDQkFBQjE4OTI5REY2MzQucG5n.png"
+    "l": "https://imgproxy-retcat.assets.schwarz/BKVbWOSYWneER8T2QDB5KXAK2oT0Iv156wEcNzwDnjw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8wRDVCQ0NFRDc1N0ExNkYyNkY3RkU4M0U/0MUQxNjRDQTM5QzRCMTdCQzY3MTczMThCNDc3QkFBQTQ4MTJGNjI2LnBuZw.png"
   },
   {
-    "n": "PRÉSIDENT brie voor EUR -33% 200",
-    "p": "1.99",
-    "o": "-33% Alleen in de winkel 19/06 - 21/06",
+    "n": "NESCAFÉ gold voor EUR -34% 200 - 28/06",
+    "p": "6.49",
+    "o": "-34% Alleen in de winkel vanaf 22/06 - 28/06",
     "s": "200 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/UPZB8USy-iChOTcPqJU--5ViecAdePM0xZGDPo00VXU/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0E2QkU4ODlCMEZCNDc0QUE5NjE1MzBGRT/kwMzhBNzRERTgwQUZDRkY3MEQxM0FCODEzRDJBMEMxRkIyRjNCODYucG5n.png"
+    "l": "https://imgproxy-retcat.assets.schwarz/CEm4eFL9Y87W8e9QLju1HBbsYDTeJRGADvxk0WjFr1g/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0FGNDI4QjBEQTlDMjgxMzhGQ0FBQTM0Rj/A1NDkwMjBFNTg0QjA2Mzg1MDYwMUY2RkQxREUwN0ZGQzlERjdCRjcucG5n.png"
   },
   {
-    "n": "ERU Goudkuipje voor EUR -33% 200",
-    "p": "1.89",
-    "o": "-33% Alleen in de winkel 19/06 - 21/06",
-    "s": "200 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/EBmRGDvRXDTjQMmYfVpC3gkx71qxm-EFZ8yY9xokXN4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS82QjZDMkM1QTg0QjM1OURBODE5MDE3QzU/yNTQ3M0MzOTJGMUFEMzRGNjQ5OEJEQjE2QkMxMDhDODE3RkRGMjdCLnBuZw.png"
-  },
-  {
-    "n": "CHIO Heartbreakers voor EUR -24% 170",
-    "p": "1.89",
-    "o": "-24% Alleen in de winkel 19/06 - 21/06",
-    "s": "170 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/xkrl0hD9LKH1d_jkoFlTtoMIjQ_2GvitNdBg2Gg8cS4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9ENzI1MTRFRjA4RUQ0REU5MTBEMEUxMkR/DMTMwNDQ4RkNFRkY4RDU1RkVCMkI5QjFGQjI5QzhDQUVDQ0ZBRDlCLnBuZw.png"
-  },
-  {
-    "n": "LAY'S Bugles, Hamka's of Nibbit voor EUR In verschillende varianten Elders 110125 Product gekocht op 26052026 bij AH online",
-    "p": "1.49",
-    "o": "LAY'S Bugles, Hamka's of Nibb-it voor 1.49 EUR LAY'S Bugles, Hamka's of Nibb-it 110-125 g Product gekocht op 26-05-2026 bij AH online Alleen in de winkel 19/06 - 21/06",
-    "s": "125 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/cM7P49LIz77yyXsCssXHFkOz2G9V5SMLrNi7ANxW9JU/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9BNDE0NEVFNERERkRFQjU5OEVDODBBQTI/yMjIxOEI4RUFFMTgwMjBFQjhGRjU4NDFCQzU2Rjk1NjZGNDY5MDY0LmpwZw.jpg"
-  },
-  {
-    "n": "Chipolataworstjes voor met Lidl Plus -16% 300",
-    "p": "3.99",
-    "o": "-16% Alleen in de winkel 19/06 - 21/06",
-    "s": "300 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/4XsaG_PV8_6YHwyR8nAmIyvzeEFHpnJQXb9lGNZbens/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzE3ODEyOUVCRTIyRTkzOEI1N0VCRUFGRU/Q1NDE0MjY3Rjk5MTRFNDZBQkEzODUyOTI2RThCQUMxOUY3RTQxRkMucG5n.png"
-  },
-  {
-    "n": "TUC voor met Lidl Plus -28% 3pack",
+    "n": "COCACOLA OF FANTA voor EUR In verschillende varianten Elders 4 x 250 Product gekocht op 09062026 bij Albert Heijn online - 28/06",
     "p": "1.99",
-    "o": "-28% 3-pack Alleen in de winkel 19/06 - 21/06",
+    "o": "COCA-COLA OF FANTA voor 1.99 EUR COCA-COLA OF FANTA Product gekocht op 09-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "4 X 250 ML",
+    "l": "https://imgproxy-retcat.assets.schwarz/vPrnvXMyyZUgI9AG77hyO9IEkoNDPD4qU7V4BIbO5S0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzY0QzdFOTk4NjVCOEIzQkMyMzlFREQ3Mk/VDMDAyNEM0RTgxMENFOEQwMEI3QjlEMDFERjQ2RUU0MjFFOEU1NzAucG5n.png"
+  },
+  {
+    "n": "Toiletpapier voor EUR 3laags, 220 vellen Megapak 20 rollen - 28/06",
+    "p": "5.99",
+    "o": "3-laags, 220 vellen Alleen in de winkel vanaf 22/06 - 28/06",
     "s": "",
-    "l": "https://imgproxy-retcat.assets.schwarz/LOOeHfKQL5GDG_R5mMcOgsc8ZuIwxnxVgAer4HwsWo8/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9EMTlGNjA1NDFDRUQ4Q0MyNDQ2NEYwRTN/DMDg4OUU5NEEyRkU3QkJGRTZCREQ5NkY1NkJDQ0JBQUUzMzQzNkM2LnBuZw.png"
+    "l": "https://imgproxy-retcat.assets.schwarz/5u0RaxPnXTHvmFBADzNHcSvj3B6mhro-yQsHfPa6Cc0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzM2QzczRjc0NTNEODVDM0M4RkQ0QzRCRD/EzOEQ3MjJDQjBEMjVFODkyQzc3ODVDNkZGMEYwNURFMjU2NDFFQkIucG5n.png"
   },
   {
-    "n": "PHILADELPHIA original voor met Lidl Plus -30% 195",
-    "p": "1.89",
-    "o": "-30% Alleen in de winkel 19/06 - 21/06",
-    "s": "195 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/l2NktofZgaISb2SKMrx6aFiJCvrlJmUijowNUG6aE8I/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS82MkNDRkU0NkRFRTEwNTEzQjJFODEzMjU/wNUYyRkFDN0IwOTZBNUYxNDBFRTAxNUZENjg4NEMwRjVBNTM4OTkzLnBuZw.png"
+    "n": "Bio Fairtrade Bananen voor EUR -36% Per kg - 28/06",
+    "p": "1.39",
+    "o": "-36% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "PER KG",
+    "l": "https://imgproxy-retcat.assets.schwarz/kBqQQyPrWjWzwx9utOBQzZdspU8MgdRfEJy2wm2oOZI/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzg0NTcyNjRBNzdFMTExQUJBNTBGNjc3ND/A2QTlBN0YxODk5OTM1Nzg4M0Y5MTlBRkQ5RkU1NjFCNTVEOTlENzgucG5n.png"
   },
   {
-    "n": "RITTER SPORT voor EUR In verschillende varianten -31% 100",
-    "p": "1.29",
-    "o": "-31% Alleen in de winkel 19/06 - 21/06",
-    "s": "100 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/-XqYRIdqMkd3RLGojhyFVT8-wd1pAmVqA8T5BOM7dlM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0M3MThCOTY5OUY0ODA0MUZCREUzOENDMD/BDNzNGMjg4MTU0NjRGOTU1MUYxQzhDQThGM0NCOTM1Q0VCNzU4MjkucG5n.png"
-  },
-  {
-    "n": "HARIBO Starmix of Kikkers voor EUR -26% 300",
-    "p": "1.59",
-    "o": "-26% Alleen in de winkel 19/06 - 21/06",
-    "s": "300 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/cUDUNKwb14-iEiwgyxyvjScK3x5YHEuyyY-Y-0Li_BA/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9BMEVBNzgxNzEzRTU1MjJGODFCRDE4MUV/CRkU5OERBREZCMjJENDk3MTI3NEQ5RTVDRjI1QzgwN0NCMDU3QTA3LnBuZw.png"
-  },
-  {
-    "n": "Druivenmix voor met Lidl Plus -37% Schaal 500",
-    "p": "1.69",
-    "o": "-37% Alleen in de winkel 19/06 - 21/06",
-    "s": "500 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/tYFoxD05jx3cItSYkSR_1h8ZZCOxeBTIOh9pFtSp0Ic/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Y2RkFENEM5MkU3RjAxMEU4OEE0QUUxMD/YyQ0E2ODFBMzMxRDE2QjdGRDM5OUU5NUUxNjE5NUM1ODc0MjdEQTYucG5n.png"
-  },
-  {
-    "n": "Puntpaprika rood voor met Lidl Plus -33% Zak 500",
+    "n": "Abrikozen voor EUR -33% Schaal 500 - 28/06",
     "p": "1.99",
-    "o": "-33% Alleen in de winkel 19/06 - 21/06",
+    "o": "-33% Alleen in de winkel vanaf 22/06 - 28/06",
     "s": "500 G",
-    "l": "https://imgproxy-retcat.assets.schwarz/eZquMIYDDmuizDCzntFTUipTWb17swsQ3HFtdNFVB24/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzMyMDkzNjQ5MDVDRTAwN0Q0QzE5RkQzNT/c2NjY0MUI2Q0ExODRGOEZDNkEwMkJGNUJBREU1NjgzMEY5QUJCNjQucG5n.png"
+    "l": "https://imgproxy-retcat.assets.schwarz/3l0bpcx9v5nshRH-vsj-Vtp2GohWQOETCQDhiB_4S8Y/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhGMEQ2QUYzMDI1RUMzQTg4NkRDNjRCMz/REOEU4MjUzMDlEQTQ0NUE3ODA4MDA1OUU3OUM5NkY5RTg0N0UyRTkucG5n.png"
   },
   {
-    "n": "SENSEO voor EUR In verschillende varianten -37% 1636",
-    "p": "4.49",
-    "o": "tot -37% 16-36 stuks Alleen in de winkel 19/06 - 21/06",
-    "s": "36 STUKS",
-    "l": "https://imgproxy-retcat.assets.schwarz/sgkbefxSYxzYqFKQm5KKaWDehuXlpnMjCbu3-tX0ufI/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0NENUE5MTI2NUMzODRBNkFEQzJFMzA0RU/E2NDA1Mjg2MzhERENCRDBFNzlEQjdCQTczRDBENkFFQkEwRTlENjQucG5n.png"
+    "n": "Komkommer voor met Lidl Plus -25% Per stuk - 28/06",
+    "p": "0.59",
+    "o": "-25% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "PER STUK",
+    "l": "https://imgproxy-retcat.assets.schwarz/oLT39fXsylKFnBtkUoK7WUGp_dQvp7reobZsjT4enzk/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzNGMzQyMEQxMERFQjIzMDZFNjY0QkM5OD/ZDNTVEREU0MEM4QkY0N0NDRURFMUMyNzhGQjkxQjZGMTI3Q0ExOTAucG5n.png"
   },
   {
-    "n": "Hollandse Nieuwe voor met Lidl Plus -33% 3",
-    "p": "2.19",
-    "o": "-33% Alleen in de winkel 19/06 - 21/06",
-    "s": "3 STUKS",
-    "l": "https://imgproxy-retcat.assets.schwarz/fCDsm1vqBga7XVAhvk2xtFGUXe2GW3PES7qbKaiw9dA/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzBDRUVCRjY4NThGNTg3ODA3MUQwNERGQz/ZCNzEwMkQ1RDVBRkRFNzczMTc5NDQxMDI5MjZGQjlBQ0M3RUU3RjIucG5n.png"
-  },
-  {
-    "n": "Witte bollen voor met Lidl Plus -31% 10",
+    "n": "Peterselie voor met Lidl Plus -33% Zak 200 - 28/06",
     "p": "0.99",
-    "o": "-31% Alleen in de winkel 19/06 - 21/06",
+    "o": "-33% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "200 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/VE70NzLyJVb4LAjDSduOuGxNpVoY2NWYoAkeiNPcHas/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzUzQjA5MUUwNTMwQTExMURGQzNEMzU5Qk/U4QUMwRThCQTM1MjM5NkRFNDI2RTFDNDFFQzcwMTlGOEU5MEYzMDQucG5n.png"
+  },
+  {
+    "n": "Verse suikermais voor EUR -28% 2 - 28/06",
+    "p": "1.79",
+    "o": "-28% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "2 STUKS",
+    "l": "https://imgproxy-retcat.assets.schwarz/n2zHyzEhpjh_jJGKcohLQFbLQDEsxcyL3ERUvXPC3Sw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Y3OTk4NjNBM0Y3RTE3MUNBQkUyMDMyNk/FCM0MyRDEyQTQ5QjlDMjdCNTJDMjU3NzVFNTJBQkNFRDFBQkZENTUucG5n.png"
+  },
+  {
+    "n": "Pitloze rode of witte druiven voor met Lidl Plus -20% Schaal 500 - 28/06",
+    "p": "1.99",
+    "o": "-20% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "500 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/RNFKlTt6YA9iw_VcUbHame385dj0ENbWbW493N93hiM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzQyQjQyNzdFQzVBNDJEMDQyMTYyNUEwQz/cwM0JEOUUyREFCRUEzMDg3RDBGNzY1QkZBQ0U0REZBMkNDMkIxRTUucG5n.png"
+  },
+  {
+    "n": "Spinazie voor met Lidl Plus -50% Zak 450 - 28/06",
+    "p": "0.89",
+    "o": "-50% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "450 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/--W2UmNwOLUbMKtZotbOzNO61SUAheVeinJJBePLDOY/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0RGNjU4NTI3OTExQ0QzQ0VEQzNGNzA3Qk/JBRUI0OTc5RTk2NTQ0MDgzRTM2ODg5QkQ3MUM1QjREMDM2RjAxNDYucG5n.png"
+  },
+  {
+    "n": "Prei voor EUR -40% Per stuk - 28/06",
+    "p": "0.35",
+    "o": "-40% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "PER STUK",
+    "l": "https://imgproxy-retcat.assets.schwarz/ctQ23UEP9j8PTDES0LcfYNJcx2qnxBvfmwjuZgzRKgc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0ZGM0I2NDJBMzA0RDZEM0Y0N0VEQTcwME/NDOTQxQzk3MkNGNEQwRjdGRDIyNzBGNDRFQ0VBOEUzRDMyNEY1NjMucG5n.png"
+  },
+  {
+    "n": "Rode paprika voor met Lidl Plus -48% Per stuk - 28/06",
+    "p": "0.49",
+    "o": "-48% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "PER STUK",
+    "l": "https://imgproxy-retcat.assets.schwarz/NGmyPwNR0h9NVmH8nJ5JisYzXnj3Kuygy9LjfuaFA1M/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzlEMzMzOEY5NUFDQ0I1NTQ4NERERDg0Mj/gwQkYxNENGODVCOTAxNjg3RUExMjI2REUzOUUxRUREMkE5ODcyMjEucG5n.png"
+  },
+  {
+    "n": "Gesneden fruit voor met Lidl Plus -41% Actieprijzen variëren €- €. - 28/06",
+    "p": "0.99",
+    "o": "-41% Actieprijzen variëren van €0,99- €1,35. Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "99 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/wwMpUrE1XnirKniy5EDwQ1IMC0z3dWZJm6nx6pR5OoY/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9BRjMzMDE0NDgxMjhBQjA5QjNDNjYwREI/3MjMyMTBDMUQ2Q0YwMDYzQUUwMjI2RjExNTg0OUJDRDk4RkQ4OEFCLnBuZw.png"
+  },
+  {
+    "n": "Frambozen voor EUR -25% 225 - 28/06",
+    "p": "2.99",
+    "o": "-25% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "225 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/wOHh8_Nhz_UTaxC7CGLVCtcpFaGU-GUPAsQFjsUGqYs/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9ENTM0NzI1RUFCMDUxRURCMUM1MjUxM0Z/CMEYxODUzQkIxMjU0RDQwREIzNUMwQTU3Q0ExMzI3RjVGNzY3NDFCLnBuZw.png"
+  },
+  {
+    "n": "Hollandse aardbeien voor EUR Nergens goedkoper 500",
+    "p": "2.99",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "500 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/YWGLxpXUwJ3slKx0izA8t3QcGoPIdJbNNgvpRKBCDjk/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0JGMjU0NjE5MjNBMjJEMjJDMDMxM0I5Qj/lBRjYxMTI5NTA4OUYyQjU2OTdCNkU1OTRBQ0Y4ODY4OUNFOEE0NTYucG5n.png"
+  },
+  {
+    "n": "CAMPINA slagroom voor EUR Lekker bij de aardbeien -20% 250 - 28/06",
+    "p": "1.49",
+    "o": "-20% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "250 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/-UrTKMFG19hxTcBDywyQnFiQaZC0vPA2kYHiaLbALno/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9ENkQ2QjY2MTE0NjNGQjY3NzM3RDBEMDU/2NDg0QjcyNkZFOTdDRTdDM0Q2Q0UzRkNEMjNBMTJDNzcyNDVENUMzLnBuZw.png"
+  },
+  {
+    "n": "Sperziebonen gebroken of snijbonen voor met Lidl Plus -18% 400 - 28/06",
+    "p": "1.79",
+    "o": "-18% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "400 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/RjUuzb7BtWERJXXgQpwgEeT4Kri-owUMd4HbWgw1wN4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZDRDRFRDFFNENBOUE4RDcwQjBBQ0EwME/I0NDEzNTNDQTVFMEQ1MUE3MUQ1OTNERjk2NEU2NkZFNDI0NDBEMTEucG5n.png"
+  },
+  {
+    "n": "IJsbergsla voor met Lidl Plus -20% 200 - 28/06",
+    "p": "0.79",
+    "o": "-20% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "200 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/sLZhNDJHScCQacV52B8lvL6HmC4ZHSqf2YMhDPqNjPU/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzYwNzJBQUE1MENDQTI5NzVFRDEyMkI2RU/ZFMDM0RUIzNDJBMERGODU4NzYzMjFEMDNCM0YxMUUwQTVDQUU2QzcucG5n.png"
+  },
+  {
+    "n": "Minikrieltjes naturel voor EUR 1",
+    "p": "1.59",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/zh_NKGd-JxgJ1Y8q9ZowNpHX5ciRLbDSVnC_mSIx_5s/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8zMkQ2QjZFRDNFRTMwMzE0NDJFRTM2RDI/xNDI2QTY4QjA2N0NCQUY2QTQ0M0MyRDhCQTBCNDY0NjQ0QjMxRTRCLnBuZw.png"
+  },
+  {
+    "n": "BBQworstjes voor In verschillende varianten 6 met Lidl Plus",
+    "p": "2.49",
+    "o": "BBQ-worstjes voor 2.49 BBQ-worstjes -30% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "6 STUKS",
+    "l": "https://imgproxy-retcat.assets.schwarz/D7lleBFiQDZsoOU806Umr6C7v-PGJVcp_lDxP35yKN0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0RFNUU1OUVDMTVBMzM5ODhGNUY3RDM5ND/hBNDk3OTU1MjMyMjFGRkNFNzU1NjJCNkREQTFFRUU3OTYzREY0QjAucG5n.png"
+  },
+  {
+    "n": "BBQsouvlakisteak voor EUR 450 - 28/06",
+    "p": "4.29",
+    "o": "BBQ-souvlakisteak voor 4.29 EUR BBQ-souvlakisteak Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "450 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/UV5QAiQd05LIU2dZB0oWTMRsQWycn6ivhB5VI7pcMvQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS81ODU0NzVCOERFMjc0MzI0RDRFODFBOTY/yMjkxMDk2OTI0NjZGNDFCQzQ3ODY0NkFCMjg3RTlDMjYxOEUyQThFLnBuZw.png"
+  },
+  {
+    "n": "Worstjes Catalaanse wijze voor EUR 6",
+    "p": "2.99",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "6 STUKS",
+    "l": "https://imgproxy-retcat.assets.schwarz/bWKr_2d8gwvXmxXXy4Y9RsePdo0oCKEebXSCvMcqdds/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS84QkM5QUU1MTQ1MDg4NzcxMERCMDM1NkR/CMzVDOEM2RDNGMkFBQkM3REU0MzdGOENEOEM5MjdEM0Y4MkU2RTk2LnBuZw.png"
+  },
+  {
+    "n": "Schouderfiletlapjes voor EUR 800",
+    "p": "7.99",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "800 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/qSTXng9NYbzPZNyWYeowFOdV_0fKDtbcGXPTMP_4EUI/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzlGQjBFRENBNjZFOEU3NTJDMDM5ODNCN0/Y2QkQ2MzRDODMzRTg2NEJDMzBEQTRENUVFRjVCM0I5REUxQjM0QzYucG5n.png"
+  },
+  {
+    "n": "Runder chipolataworstjes voor EUR 17% goedkoper 10 Prijs vergeleken met inhoud reguliere verpakking",
+    "p": "7.99",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
     "s": "10 STUKS",
-    "l": "https://imgproxy-retcat.assets.schwarz/gdp7LzZlE02oQC1WhaR-jPY1GH8XGg1nTabYVeot6ug/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0NDMzkyNTgyN0I3RDY4QUIzMTQxMjdCOT/ZBRjM0REIzQzI3NjA1NzJBRkUyMDdGNkI5RkYwRjgxQ0EyOTcxQTkucG5n.png"
+    "l": "https://imgproxy-retcat.assets.schwarz/VYYQUu51DVcIuwLC1Tz_JWmuTb4V_IZ_AwTJqTUbdng/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8yNDlBMTU4M0UwMjdGM0ZFNzA2MzQxODc/1QTAyRDU3OTJBQzY0Qzg1OTkxRjcyM0I1RkU5NjFBM0UxRTgyQjM0LnBuZw.png"
+  },
+  {
+    "n": "Kipdijschotel Aziatische stijl voor EUR 450",
+    "p": "5.99",
+    "o": "Alleen in de winkel vanaf 24/06 - 28/06",
+    "s": "450 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/F0y4jcsaCVVM0tFXi_zSUbPNgGgy4iod7Uix60aKUE8/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzU2QTVGOTQ0MTA2REZDODY4MjkyQkNGNz/c2ODZEQjgwMUZBREMzMjA1MUYyNTNCNTQzOTcwQjk0NkVCQjI2REMucG5n.png"
+  },
+  {
+    "n": "Zalmfilet voor EUR 8",
+    "p": "16.99",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "8 STUKS",
+    "l": "https://imgproxy-retcat.assets.schwarz/TQTpUZhbuDB86PRjsNtC0ubVjF2LXcgTnOmOmDq-4_g/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9CQzJFQkYxNjJFNDY2MzE1RDA1MTdEQUF/GQ0I0NjA0QTY4OEM5RUIxRjkzOTQyRTVDRTFDRjdGQUQzMzJFQTUxLnBuZw.png"
+  },
+  {
+    "n": "Kipkrokantschnitzel voor EUR 6",
+    "p": "7.99",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "6 STUKS",
+    "l": "https://imgproxy-retcat.assets.schwarz/qeSeyaEU5XcCl77-5u49Oy2pWAh9dfB54VHcXC37Mpw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9BOENDMjQ3NDNDNUUyMUNEQzQ4MDgwN0E/1Q0E5NjNENzQxQTQxRUQyRjNGMzVDNkM1NDg5OTc5ODgyOTNGREJFLnBuZw.png"
+  },
+  {
+    "n": "Varkenshaasspies Chimichurri voor met Lidl Plus -21% 240 - 28/06",
+    "p": "4.49",
+    "o": "-21% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "240 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/H_oa1vWx0NutnzcLqniH6f1YZIQObf52NoPx1-7g3ho/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS84QkE2MkZCQjQzMTlCNzY0NUIyMzMwM0I/1QzZEODg3MzhCNzJFNjMyRUM4QjU0RkI4QTc4MUZGRjJENEQ2QjNCLnBuZw.png"
+  },
+  {
+    "n": "Appeltaart voor EUR 68 personen - 28/06",
+    "p": "2.39",
+    "o": "Actie 6-8 personen Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/FcP6JySsHyXqvLbYHDIm3l_NF9WzdojhG94r-fkAToo/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0E5NkY0OTQ3Q0IwMjM3OThGNThFQzczOU/RGMTZBNzRDNjYxQzIwRDU2NDMwRDQ4NDkxRUZCRDc4M0RBMkU3QjYucG5n.png"
+  },
+  {
+    "n": "Kaiserbroodje voor met Lidl Plus -32% Per stuk - 28/06",
+    "p": "0.19",
+    "o": "-32% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "PER STUK",
+    "l": "https://imgproxy-retcat.assets.schwarz/GB0isUvev77KM5j8Uv22-GJQxRV_OcXvkJdfnf8b_PQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0VDN0Q3MEEwNzVCNDZBMjlDNDZCRjM0Mz/RERTU2Mzk1NURBREE3ODQzNDc2RTQ3NEU5RjgxRENDNkM2MzdFQzUucG5n.png"
+  },
+  {
+    "n": "Churros voor EUR Per stuk",
+    "p": "0.39",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "PER STUK",
+    "l": "https://imgproxy-retcat.assets.schwarz/Chwm7BlRhF_U0SXYDA9uGbdYnfoyrNwax6mfIgfAWBw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0VENjc3OEEzREI3MkY5QUJBMjYxMzI2RD/RFQjEyOTQwQzM2NkQ3MTI5Nzg1NDc1Nzg5MkEwQjhDMzMwNUIxMjgucG5n.png"
+  },
+  {
+    "n": "Broodje kroket voor EUR Per stuk",
+    "p": "1.29",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "PER STUK",
+    "l": "https://imgproxy-retcat.assets.schwarz/1ey3J6o1Hkz9Iq322EWljJe1TnqHvxZw9quC0XWKkwQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzRCOEUwMEQ0NDU3Q0I4RjU2MTFBQTAwRT/BFQTA4MEQ4NEVCRTFDRTZCQTEwMTEwMTJDQzhFQTUyNjk3NEFFQUMucG5n.png"
+  },
+  {
+    "n": "Tijgerbruin voor met Lidl Plus -22% 800 - 28/06",
+    "p": "0.89",
+    "o": "-22% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "800 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/tNVV1fV7jU6gySFnld7d3fFv5VLoonniOVg7BKQsVmo/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0RDRTMyQTc1OTE2NENEMUFENjJFRjIyME/JDNkIzNUZGMzhGNThCQTRENkZEMkVDNUNENkM3NkExOThGNUE4MTEucG5n.png"
+  },
+  {
+    "n": "Reuze stroopwafel voor EUR XXL Per stuk",
+    "p": "0.99",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "PER STUK",
+    "l": "https://imgproxy-retcat.assets.schwarz/DyH7vdc2ooq82DOxs6gfQ_43E-BU_cedYcjx48Ggaig/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzE5Q0ZDODRFRjI0M0FENDk3QjkxRjQ0MT/cxQUU3NUExRkYwN0Q2NkIzMjI2MTA0N0ZFNjM2NTk5RENGQjMyRTcucG5n.png"
+  },
+  {
+    "n": "Hazelnootnougatbroodje voor met Lidl Plus -20% Per stuk - 28/06",
+    "p": "0.79",
+    "o": "Hazelnoot-nougatbroodje voor 0.79 Hazelnoot-nougatbroodje -20% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "PER STUK",
+    "l": "https://imgproxy-retcat.assets.schwarz/xIi58QHPJU3IrMxyRz4L9tk2M4UhE3xPVQdb7WD7Rn0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0M1RjVFNEVFNjY1OEEyREJEMTNGODNEOU/E3QzA0MEMzM0M1RjA0Q0ZBMTkyMjlCOTVEQjY5QkQ3MDgyMUM3NzkucG5n.png"
+  },
+  {
+    "n": "New York Style brownie cheesecake voor EUR 2",
+    "p": "1.99",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "2 STUKS",
+    "l": "https://imgproxy-retcat.assets.schwarz/JzvohXOVA2WSLpVjgKyUcmXf9jZszpV-48EwZFpDpZM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzA3QjlDOUI4MTFBMUM4NDIyRjQ3QzI5Mz/czRThCQzk2OTdGM0JERjMwNEFENTY5ODY5MDAwMjUyOUQ1Q0NGOUEucG5n.png"
+  },
+  {
+    "n": "Goudse 48+ kaasplakken extra oud voor EUR XXL 500",
+    "p": "6.99",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "500 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/zp90dJvgptdBZCLDPHgBni3N6AZssdQsl4J7VWuZbhA/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzlDMDQ5NTA2QjY0MENDQTk4QzA0QjJDNj/IwQkMzQjFEM0EzMTI3MTJFMEZGNDExRDcxMTYwOTIyRDcyRUYzRUMucG5n.png"
+  },
+  {
+    "n": "Poldertrots jonge kaasplakken voor EUR 15 plakken",
+    "p": "2.99",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/eHVbpQg-cz8OD3YxpPbiWZQNj68S-ynSZyoT2B6tohE/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8xQkM3RTY3OTEzRjk3MDg2MzcxRUI0MTB/FQzgyQzg5NDBBOTBFNEFDNkM0ODlCRkIyNEEyRUNBNzQzODVFQUVCLnBuZw.png"
+  },
+  {
+    "n": "Olijfolie extra vierge voor met Lidl Plus",
+    "p": "6.99",
+    "o": "-23% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/nShL96Nb_nNlKQqAxWNrnhOB3NTayjwQDTlM0bgK6iI/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Q4MEE5OURDOTIyMTZEOUUyMzJENkYxMU/QzNjk3NTI2Q0VFQzY5RUJEN0MxOUIwNzFFQzFCRTc2RkRBQTNCRkUucG5n.png"
+  },
+  {
+    "n": "MONCHOU voor EUR Elders € 100",
+    "p": "1.69",
+    "o": "Product gekocht op 12-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "100 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/EdRBEwZaA-M9RcN5pYRZfqe5YntfPZ-nnngTXm0-z2c/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8yNjJCMkVFQjJCNDg0MERENTQ1NzE2NEN/DNUM0QUQ0RUMwMzM4OURDOEEwODk1OTM0NDQ1NThFRkQyRTBDRkFGLnBuZw.png"
+  },
+  {
+    "n": "MONA Pudding voor EUR Elders € 450",
+    "p": "1.49",
+    "o": "Product gekocht op 12-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "450 ML",
+    "l": "https://imgproxy-retcat.assets.schwarz/2J0kvag4p7WRoVzp29VKeKWFr7wqQJftT0i88yI0FxI/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9CQzgwNjkzODUwMDUxMEVENzMzRjE2MEY/wOUJFMjJEMzNFNUU5QTdBMjA2MzE3ODFENDk1RTdGRTU2Mzg5RkI5LnBuZw.png"
+  },
+  {
+    "n": "BOLLETJE Schuddebuikjes voor EUR Elders € 300",
+    "p": "1.99",
+    "o": "Product gekocht op 12-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "300 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/y869VQ0MxCLnmJ51RG0E3nq5IHEoAaYuH0pX4OD5vuw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8yREQwNjZCRUIwN0Q2NjVEMDlDQ0RDQTU/5RUMxQ0Q2MjYwOTlDNzFFNEVCMTVBQkUzMUMzNDlCRDA3OUEzRjQ0LnBuZw.png"
+  },
+  {
+    "n": "Margarine Goed Begin voor met Lidl Plus -12% 500 - 28/06",
+    "p": "0.99",
+    "o": "-12% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "500 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/OuqolxjkvyLH98a3b_zkkLo7XzOm2fQT5m3GRrr8mCs/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzZGQjkwNTE2QjQ5MjA2MDI4QjYyNDE1Mz/k3MTIzMDlEOEE2RDE2RDc4NjIyREZBNjMyNTA2RUQ4MUQ0QUY1QTQucG5n.png"
+  },
+  {
+    "n": "LIGA BelVita voor EUR Elders € 300",
+    "p": "1.69",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "300 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/s5VZKYf9X2tKDbbtKDVulS1-ObBdnMhwyEVWax_2xNc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS85RTA3MThBNjJBNTJCRkJEOEVDQTgwNTY/wQkVFNThFMzg0RjAyM0U3RjlFMzE0MEJCNjAzQTcwQzNGQTYwRkZBLnBuZw.png"
+  },
+  {
+    "n": "Roomyoghurt voor met Lidl Plus -27% 150 - 28/06",
+    "p": "0.35",
+    "o": "-27% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "150 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/EawZHtShvkswWmk6eIX-t6Q1ktBt_-vjR2hxpjvrBC4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzU0QzdBRTlEQjI3MUNDQ0E4ODlCMjQ2RD/BFQkU1RjA0QTQ0RDQ3RjcwMkJGRTNGRDg5MEJGMENBRjgyNEI0REIucG5n.png"
+  },
+  {
+    "n": "Ongezouten amandelen voor EUR Halve",
+    "p": "4.85",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/qnfAYwuqiXr6CsVWK-L1TgRRkyR6-A961tg9E3PZZAA/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzE4M0NGRDlGNUNBMEFBQTUyN0YyQjYwME/UwNERCQzY3RjlCODYyMjNGMjBDMEUzMzkwMzNBQTUxNTQ3NjBCRTMucG5n.png"
+  },
+  {
+    "n": "NESCAFÉ oploskoffie voor EUR In verschillende varianten Elders €",
+    "p": "1.99",
+    "o": "Product gekocht op 12-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/LKZK4jP2_2e_O_X2W-mu4xIjqjn5K31nHfWfpw_ZZkI/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzIwMDZENDU3QjFGODJFQkJDNjY3Q0Y3Rj/E0ODdCMTg5MkU4MTBEOTNEQzJGNUQxM0M0QUE5REQ0RTMzMENBRTMucG5n.png"
+  },
+  {
+    "n": "Alle verse pizza's voor met Lidl Plus -23% 406609 - 28/06",
+    "p": "3.99",
+    "o": "-23% 406-609 g Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "609 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/vzn_MVnSfbDLmpVI0o-zd4dzkpimf2dxStPfF7N3N-0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzg4RDA3RTdFODVEMjdGNTcwRTEzRDU2NT/ZGQTQ3NkQ5ODVCODgwNzg0RjMzRjJEQkE0MzZDQzQwNEEyMjIwM0MucG5n.png"
+  },
+  {
+    "n": "Geraspte kazenmix voor EUR Mix Emmentaler, Edam, Cheddar en Gouda 200 - 28/06",
+    "p": "2.29",
+    "o": "Mix van Emmentaler, Edam, Cheddar en Gouda Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "200 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/XS182oWywljXwbVgobaYFy1RUT5egSnht5hR5myUhLY/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzY5MDgxQzFDMkFFQ0ZFMEY0MDEzNTQ0OT/IwNTNFMjVBRUNDREQzNTJEMUE2QTE1Q0Q0Mjc4ODJBMDhCNEE3QzkucG5n.png"
+  },
+  {
+    "n": "YAKULT voor EUR Naturel of perzik Elders €",
+    "p": "4.99",
+    "o": "15-pack Product gekocht op 12-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/KXL62BhhpEsxW0t9qnhRwekaQZJ5h0ae6OAethjICTA/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9CMjAzQ0Y5RjlBQzcwMzA4NDNCMzQ3NTV/DQTEyOUZGQTlDQ0Q4MEZCRjhCOEZBMkY2QUIzMzY5MURFNjNGMzdELnBuZw.png"
+  },
+  {
+    "n": "BARILLA spaghetti, pastasaus of pesto voor EUR Elders €. Prijsvoorbeeld: Spaghetti. Actieprijzen variëren € - Product gekocht op 12062026 bij Albert Heijn online 28/06",
+    "p": "1.19",
+    "o": "Prijsvoorbeeld: Spaghetti. Actieprijzen variëren van €1.19 - €2.39. Product gekocht op 12-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/F9R2RQIcuUI5haYhBBzZzPkLUx9sNxLcHzTgmN5naVs/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9FNUU3NTU1NEVCRjNFMTMxRkRFOEExMjl/ENDFEQkExNEQ2MDRCNjVGQkJEMjEyMDM2OEU1RDMxNERFNzEyQjZBLnBuZw.png"
+  },
+  {
+    "n": "CALVÉ Mayonaise voor EUR Elders € 430",
+    "p": "1.89",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "430 ML",
+    "l": "https://imgproxy-retcat.assets.schwarz/N5uzBnp0k_9xQDyTxSj4JrstF0R_aqRmf6VGTdVVguU/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9GNDA5RDIzRjkyNzQ0QTVFQzM2NTFFRUM/1QTI5MDNCMTAzQ0M5Qjk3MTc5RThBMUIyQzk1NzI1QTMyOUUzQ0M2LnBuZw.png"
+  },
+  {
+    "n": "Oven minisnacks of mini loempia's voor VANAF met Lidl Plus",
+    "p": "1.89",
+    "o": "VANAF -27% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/wzbb9FSRv1__vRgj1xqdQx8iU6_3A9F_0nCYNqK_If0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzhFQTY5MTUxNDQ5NkY2QzUzMzc1RDBGQU/NBN0VGMEQzMkE4ODA2N0JDNzQ3MDIxODgzREJEMkFDOEQxQzk2NkYucG5n.png"
+  },
+  {
+    "n": "Grillworst met kaas voor EUR -13% 200 - 28/06",
+    "p": "2.19",
+    "o": "-13% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "200 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/ZUW5EbdL14g2bf8H3P23Ff925g6YEuDOZ_EP-UHLSks/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS81QjgwNDAxOENERkQwRUM4OTg2RjJEODM/yQzlGRTQ3MkNGRjNGREI0OTFDMTAzRkZFMTVEODkxREY1RkU2NkE1LnBuZw.png"
+  },
+  {
+    "n": "Yakitori voor EUR 250, 10",
+    "p": "3.99",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "250 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/2ZVgY97GrVE4lD334IxUtCrtQiI32lA3IhEtP4lOk84/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS85NkNGODI1MEQyQ0FBQTlERUY5NTAyNzQ/2ODBDNEU0MDBBQzM0NUNBMUZGMkU5QTM3MTBGRjQ4Mjc3OUY4NjRDLnBuZw.png"
+  },
+  {
+    "n": "Salami voor met Lidl Plus -20% 250 - 28/06",
+    "p": "2.39",
+    "o": "-20% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "250 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/hjPIp0nlJF9koYDND7g7KAc1QbfMSJOCMMIdDlcmkOA/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0UyOUUzMjIyM0ZERTdCQjM1RjQxRDQyRD/g1QUI5NjUyREVENjM0NzIzNzI4QTc0RjMyMDU3N0ZFQ0ZBMTU1MEMucG5n.png"
+  },
+  {
+    "n": "Bitterol voor met Lidl Plus -25% 700 - 28/06",
+    "p": "3.74",
+    "o": "-25% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "700 ML",
+    "l": "https://imgproxy-retcat.assets.schwarz/ptXKDFmDuUR16OPLLXti_1gsZ5HZslQIKUoTon1cbh4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzNCQzFFM0M1QTEzQkEyQkQ3NjlBMEFEND/k4QzY2ODJFNjgyMkUxNzg1OUEwMDFFM0UzMzVENjdBMjkwRjBCMzUucG5n.png"
+  },
+  {
+    "n": "STËLZ voor EUR 6pack 6 x 250 - 28/06",
+    "p": "8.99",
+    "o": "6-pack Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "6 X 250 ML",
+    "l": "https://imgproxy-retcat.assets.schwarz/iFhTIW61wGCVDzjP5XXoD39INpUCOR6369SIyu21J_k/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS84QjgyQTQ3RTlFMTNEOUE4QkI3NkQ5MTE/zNDJBMTZDMjBDRENDNkY0REE3NEExMjU3N0ZEQkNEQTI5QUMxMDgyLnBuZw.png"
+  },
+  {
+    "n": "CAMARO voor met Lidl Plus -25% 6 x 330 mi - 28/06",
+    "p": "3.74",
+    "o": "-25% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "6 X 330 MI ALLEEN IN DE WINKEL VANAF 22/06 - 28/06",
+    "l": "https://imgproxy-retcat.assets.schwarz/WJ2tWca28fiLVFN5SjBPXEGLacT1cMHymPEV4k7pEvs/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0NCMjY5NjRDM0NGQkIxRTgwMTkxQ0JBMz/QzQzQxQzM0QjBEMUVCRTk1NDdFQjJBQzBGRDI2NzRFMTc2MDlGNjcucG5n.png"
+  },
+  {
+    "n": "AMSTEL of AFFLIGEM voor EUR 6 x 330 VANAF Prijsvoorbeeld: 330. Actieprijzen variëren €-€. - 28/06",
+    "p": "3.89",
+    "o": "VANAF Prijsvoorbeeld: Amstel 6 x 330 ml. Actieprijzen variëren van €3.89-€6.74. Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "6 X 330 ML",
+    "l": "https://imgproxy-retcat.assets.schwarz/EDE81B0NdGfXVQKzegOxGe-P096mC7X39X3ASINMXBc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8wNjNDREM4RTEyRDM2QTJCNDVFMjZFRTE/0MTNENzIxNjdGQzcwNUM1QTY4NjVEOTY4MUVGRDU1MENBMzFEQTExLnBuZw.png"
+  },
+  {
+    "n": "Gin Tonic of Rum Cola voor met Lidl Plus -24% 250 - 28/06",
+    "p": "0.97",
+    "o": "-24% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "97 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/DqFUBBC6oxPNzY09W48MEXjzEUmxTsqSjtcsIDX8o18/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzU3RjEwRTg1RjUzRDc0QkZEMkU4RkZBRD/g5QTgwOURBQjIzMTAxOTU3NTExQzdGRTEwQkMyQUU4OUM1NUU0NDIucG5n.png"
+  },
+  {
+    "n": "PERLENBACHER Witbier voor met Lidl Plus -25% 0,5 - 28/06",
+    "p": "0.74",
+    "o": "-25% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "5 L",
+    "l": "https://imgproxy-retcat.assets.schwarz/K-kN2-HAk1Vq9mie3kHbNYLRLxBqEs2hRlp-u7pJfy0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzU0MTlCQzM4QzRDQjM3RTU4Rjg5RjEzNU/RFNkJCOTI4NTE5NDc0RTZCRkE4QzdDQ0YwOEZGMEREMUM0M0YxRDAucG5n.png"
+  },
+  {
+    "n": "Energy drink cassis voor met Lidl Plus -25% 250 - 28/06",
+    "p": "0.59",
+    "o": "-25% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "250 ML",
+    "l": "https://imgproxy-retcat.assets.schwarz/5PUiJL7RgLGysDunniux2YDeuRxahlBcoZVJ3Vc61ic/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzMxODgwMTE2QjcxRjBBOEUxMEEwMkQwRT/cwNTc2NjYzMThBQTExRTkxMjhGN0RGRDVCNzRCNDQ0QjM5NDlFNUYucG5n.png"
+  },
+  {
+    "n": "Australische chardonnay voor met Lidl Plus -25% 750 - 28/06",
+    "p": "2.69",
+    "o": "-25% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "750 ML",
+    "l": "https://imgproxy-retcat.assets.schwarz/vp-0SshRD7CAn-Uwt38e8UL4BNiKa-IYCult7cTGacQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzlEOENCN0M2QTMwQzVGRENBRDMzRkZDQT/c3NDBCMTkzM0U4NjJDNUNCNjIyQzREQTdFNjg1MENGQzlDRThCOUQucG5n.png"
+  },
+  {
+    "n": "Chileense wijnen voor met Lidl Plus Prijsvoorbeeld: Merlot 250. Actieprijzen variëren € - €. 28/06",
+    "p": "1.34",
+    "o": "Prijsvoorbeeld: Merlot 250 ml. Actieprijzen variëren van €1.34 - €2.92. Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "250 ML",
+    "l": "https://imgproxy-retcat.assets.schwarz/KucPD7O7axLFAWD90l7SJVSYLQffb_SYCavjSS51D4Y/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0RERTRBQzg4RDRBRDcwRTFEQUQzMTRCMD/A5M0ZGMjREMjc1ODc2RDMxQTdDQkY1NkIwMEMxNkZBQjRDNEU3RDkucG5n.png"
+  },
+  {
+    "n": "SCHWEPPES voor EUR In verschillende varianten Elders € 1,5",
+    "p": "1.99",
+    "o": "Product gekocht op 03-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "5 L",
+    "l": "https://imgproxy-retcat.assets.schwarz/kCq6NXvFoAHv3OasDexDiPUUVR-OehqNcBjeDjZoGd4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8yRkI3NDg4NjQ5Rjk5RTlGN0UxQ0Q4Njg/xOTEwQzZGNDI3RUVGNDU5NDU4MDkxQTM1ODYyRDg5Q0I1Q0MzQzk0LnBuZw.png"
+  },
+  {
+    "n": "POWERADE voor EUR In verschillende varianten Elders € 500",
+    "p": "0.99",
+    "o": "Product gekocht op 03-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "500 ML",
+    "l": "https://imgproxy-retcat.assets.schwarz/N-QxR9mayzoKZx7ddRlQsjmADVfU_4-DQiPOScjOiz0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS83N0JEQzU5RUUyRUE4QjZEQTJCMkE1NEI/4QTU5MDhEOEY4MEE1REQ2QUU0RUFFOTI1NjY3ODNENzM2MDZCODA2LnBuZw.png"
+  },
+  {
+    "n": "KITKAT of SMARTIES voor EUR 3pack - 28/06",
+    "p": "1.99",
+    "o": "3-pack Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/OiMqaleBbFB_fcR8wGNFoqDX-PlJsHd52Mt5iaooOqU/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8wNDhDQzc4NTREOEZFQjA1RkMyQUFFNzM/xNUI3NTVENDU5MzUxMkQ0MjZDMjlFRDczRjcyRkY3RDFEMDU0QkIwLnBuZw.png"
+  },
+  {
+    "n": "KATJA voor EUR In verschillende varianten Elders €",
+    "p": "2.49",
+    "o": "400-410 g Product gekocht op 03-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "410 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/4K3zYw9JYxwLES2Vi5EyELrWQ-xuFymlGKi7-SKyXdM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8wN0ZGMTRGODk2QkE0OEUxOENGQUQ1RUU/wMUJFMTRENzgzNjgyOEU5NkJFRUZDMkNFQjI0MzkyOUFCN0FGQzdDLnBuZw.png"
+  },
+  {
+    "n": "COCACOLA Zero en regular voor EUR -26% 1,5 - 28/06",
+    "p": "1.79",
+    "o": "COCA-COLA Zero en regular voor 1.79 EUR COCA-COLA Zero en regular -26% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "5 L",
+    "l": "https://imgproxy-retcat.assets.schwarz/YfByQJSAkomYX8bY9BHMzyitwyHUTIiJY7gNN-XtTaM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzg3MzcyNDlEOEIxRTNCQjQyN0ZCMzQzRT/AwNzVCRjFEQ0VCRDZCNkI5Q0FDMEVEMzg0NzUyMTY2NzMxNDlERTcucG5n.png"
+  },
+  {
+    "n": "MARS, TWIX of SNICKERS voor EUR Elders € 333",
+    "p": "2.99",
+    "o": "Product gekocht op 03-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "333 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/MxwD5hpKCYk3X5OaIxBHzhL8kzTNOlW_4KCPuIT_pOk/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9CM0UyQTQ2MTM3MUEyQkM0RkY4NzNFRDh/DQUI2RTNBRTBGQzUxRTEwQ0VCRDg4NzBGNjhDODBGNDVDMTM2REM5LnBuZw.png"
+  },
+  {
+    "n": "Roze fondant pencee voor EUR 4",
+    "p": "2.49",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "4 STUKS",
+    "l": "https://imgproxy-retcat.assets.schwarz/ricaGLr_khgT5nqo9ltuEI_dbSbEnRLUI3BZzwpnhcM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS84NzJFMkU0QjA3ODBCQjA3N0UzOTlFMDR/CNkU5QjU3NUI4MUZBQUUzMEE3QzQ4MzNGM0NBRjVBQzlFREU3RDFGLnBuZw.png"
+  },
+  {
+    "n": "Lemon cube voor EUR 2",
+    "p": "2.79",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "2 STUKS",
+    "l": "https://imgproxy-retcat.assets.schwarz/_-ax9jcuilewIj5BPpCuDCgKWWYLJNO24SIE-vLhbnk/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0M1RTI0MzUzMjIyQkE2MTI5QTZBMjVCMT/RDRDhFODlCQUM5RkI2N0M1MEYzQzJDQjE2RUEyNkYyRjVGMkE4MDMucG5n.png"
+  },
+  {
+    "n": "GRAN PAVESI voor EUR Elders € 150",
+    "p": "1.99",
+    "o": "Product gekocht op 03-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "150 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/XR8CSBl4qWf__ENLI5gktqDiNVSS3_aoUtZC8KG0YRU/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8xMzkyMTFBNTZGMzZFNURGQkY3MTNEMjg/1MzY1Qzc0OThCMENFMDQ0RjlBN0RFMDNBRjMxNDJBNUE5QjUwNEExLnBuZw.png"
+  },
+  {
+    "n": "OLD AMSTERDAM crème voor EUR Elders € 125",
+    "p": "1.99",
+    "o": "Product gekocht op 03-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "125 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/O-EkxxqRjtQvW9amMI35tPVJWgWgGw7HViMXD2TtCI4/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9DM0UxMEI1OUIwNkY4RjVENzQ5NURCQkU/yMkU3MEE3NDYzNjdGNkRGNjFENjUzNjJGNTA4RDYxM0NBQ0RCRDVGLnBuZw.png"
+  },
+  {
+    "n": "MELBA toast voor EUR Elders € 120",
+    "p": "0.99",
+    "o": "Product gekocht op 03-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "120 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/NMY0j_TzJFzlgTGihwPCiTggr8iDI0fP8A5QSCBOyfc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8zQkJCMTBBRUMwMzFFMkM3Q0RFREQ1RDc/3REE1OTI5QTY2MTJBRUNDMjE3RjcyOUYzRkQxRDhFOUQ0MDU5OEY2LnBuZw.png"
+  },
+  {
+    "n": "JACK LINK'S Beef Jerky of BIFI voor EUR",
+    "p": "1.99",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/41852f8j275T9pGkJbMkebkyCU0T19jF-Fd01IhbH-Q/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8yRkIyRTczNDY1QkMxNjc5NUE1OUY3RTB/EMUNENEJGQzYwREE0QTM3OUM1Qzg5M0Y1RUU3ODc3MEMwNEJBQjdGLnBuZw.png"
+  },
+  {
+    "n": "ROBIJN Wasverzachter voor EUR In verschillende varianten Elders € 780, 39 wasbeurten",
+    "p": "1.99",
+    "o": "Product gekocht op 03-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "780 ML",
+    "l": "https://imgproxy-retcat.assets.schwarz/lyKmd27KjBG9SbSk253eUk2HBgknlEDeiZSjSute-lU/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS83Q0MwNUE0QUFCNDY4RDU4QTY2NUM2N0E/5ODA3Mjg3RDk4NTVEOUU3NEE5QjAwNkJBNTRCMjc3NzY4Q0FEOTRBLnBuZw.png"
+  },
+  {
+    "n": "Wasmiddel allin1 caps voor EUR 2 x 48 96 - 28/06",
+    "p": "17.99",
+    "o": "Wasmiddel all-in-1 caps voor 17.99 EUR Wasmiddel all-in-1 caps Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "2 X 48 STUKS",
+    "l": "https://imgproxy-retcat.assets.schwarz/NkWiHKo4JGO_AqWiKIHxUXOI3uyRf5Q1uwS6mPxqR9A/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzk5NjhGNUVBMjRCMDYwMzVBNTVEQzgwNz/FCNzA3NkYzQkU3OEUyMjBCRDRCRUU3QjE4QUQ1NEJEOTk2NjNDMzIucG5n.png"
+  },
+  {
+    "n": "ORALB Opzetborstels io Gentle Care voor EUR Elders € 2 Product gekocht op 09062026 bij Kruidvat - 28/06",
+    "p": "11.99",
+    "o": "ORAL-B Opzetborstels io Gentle Care voor 11.99 EUR ORAL-B Opzetborstels io Gentle Care Product gekocht op 09-06-2026 bij Kruidvat Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "2 STUKS",
+    "l": "https://imgproxy-retcat.assets.schwarz/WbS_8p3y_6jZRj5L3iBHTKIhExedmKzEdpIvDW9Mato/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9BRkRCNjk0MjY2Q0MyODQxNjVDQUNDQ0Q/zNTU0MzVBMjU1MTkwREQzRThBMEFBREE4RDU2MTQyOTgzQTU3RTNBLnBuZw.png"
+  },
+  {
+    "n": "DREFT Platinum vaatwastabs voor EUR Elders € 66",
+    "p": "14.99",
+    "o": "Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "66 STUKS",
+    "l": "https://imgproxy-retcat.assets.schwarz/sS_tDvF7wmCWX-yEjDRQI6TmzU6eVlGpIipmIAG06BQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8yMUQ3RjhFMDYzRDBBODVBNDYxREJDQTI/zOEM1MUE0RDFCNTFDNTc3ODVBOTJGM0JBNzJCODEyODIyODkyRkE1LnBuZw.png"
+  },
+  {
+    "n": "Kauwbotten voor EUR In verschillende varianten",
+    "p": "1.79",
+    "o": "80-170 g Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "170 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/iePc8S88vCvKD7EdiiGReP81XMQZXPl1O3siLS8P8Fw/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0U3Njg4RjVCQkI3QkREMkRGOTVEODU5QU/I0RDQ0NzJCOThCMTUyRTM5MTk4NTJFNDk4MjE5MTI2RTNDM0YxOTEucG5n.png"
+  },
+  {
+    "n": "Hondensnacks voor EUR In verschillende varianten",
+    "p": "1.49",
+    "o": "75-150 g Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "150 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/5LqOajdqvt26Wh21p3Y9155J4Pm8FGL-zCD30G7z1_8/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0IxRkU4NkExODM0NkIzRUY1RkFFNThCN0/Y0MDQ2RUE2RDgzNEIxMThGRTY2ODg2NTMzOUVCQzk3MkVDNDdBODcucG5n.png"
+  },
+  {
+    "n": "Premium hondensnack voor met Lidl Plus -20% 200 - 28/06",
+    "p": "3.99",
+    "o": "-20% Alleen in de winkel vanaf 22/06 - 28/06",
+    "s": "200 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/UhAcVY68PZ6BNf3Q3tPj7CbhNYh5FMbgJ-5s3mFcHVc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzFGNkI0QkVBQUM2QTQwMUI2QkMzMkY4MU/QzOUM3RkVEOTk1REE2MjYyQUZGNzg2MDc0RjZDNzExQzMyM0U4QTcucG5n.png"
+  },
+  {
+    "n": "Lavendel voor EUR Potmaat: Ø 12 cm Hoogte: ca. 32",
+    "p": "2.79",
+    "o": "Alleen in de winkel vanaf 24/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/OIw_S9OViCa29GhrKjYEQkYkHSkvq8689EEJa_AyBZ8/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzU2RURGRUMyRTg2MDNCNjJDMkRDOUE0M0/Y2MDBBODI5NjkzQUYzMkUzNkZFNTMyNjlDRTlDNjcyOERGMTM5OTQucG5n.png"
+  },
+  {
+    "n": "Pioenen voor EUR 5 stelen",
+    "p": "3.49",
+    "o": "Alleen in de winkel vanaf 24/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/5BQI9QdtBK6u8enggIVHGF14HWv28fXqtGxFhIJufXc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzM2RDJFQ0E0NUVGQTZBOEU2OERGQzFFNE/E5MjE0MEE1QjBGMzQ2MUE2Q0NEQTBGMTQyNjIxREQ5NkM2MkE5MDQucG5n.png"
+  },
+  {
+    "n": "Siam curcuma voor EUR Bloeit juniseptember Potmaat: Ø 14 cm Hoogte: ca. 60 - 28/06",
+    "p": "6.99",
+    "o": "Bloeit van juni-september Actie Alleen in de winkel vanaf 24/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/5_ms1gSp1uVoejskJyPUriFUaNKo24XlSP-l_wboThE/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzRDRjJBRUE0NDI0ODk2NDgwNjYyQUFCMD/cxOEEyQUNEMzYzQ0I5RDYwNERFN0IwOTc2OUMzMTNEMDg4OUVFNUUucG5n.png"
+  },
+  {
+    "n": "Lepelplant in potje voor EUR Potmaat: Ø 9 cm Hoogte: ca. 22",
+    "p": "6.99",
+    "o": "Alleen in de winkel vanaf 24/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/iEcw4m2CbCpMW2IMNI58h6W5kgSwYpfHf1_BHZAIxLs/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzAzMzc5Nzc4N0Y2RjQwQzAwRUFEQzBBME/M3MkIxQTU2RDg0NDkyMjU2QjE1NDYzMDlBNUU4MTA5NUY0M0Y5RTEucG5n.png"
+  },
+  {
+    "n": "Tuinanjer voor EUR Vaste plant Potmaat: Ø 9 cm Hoogte: ca. 22",
+    "p": "0.99",
+    "o": "Alleen in de winkel vanaf 24/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/57HuxcSS_Ga1kcrSbehShM3JF2mzv-7zaE3gNlpe8c8/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzI1MEI1MjRDNzYwOUUzREMxODFERDRFQT/c4OTQ1M0IzMjc5OTYwNUE1Q0UzQTkwMzBCNjRFNUZERkQwQ0U0QzQucG5n.png"
+  },
+  {
+    "n": "Bolhortensia voor EUR Potmaat: Ø 10,5 cm Hoogte: ca. 26 VANAF - 28/06",
+    "p": "3.99",
+    "o": "VANAF Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/GAQz_ebpm17T9H0Wu1fiDA8xVKZ1OhLisZzxuEahm-M/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0Q1RjRDODhBREIwQkMzMkQzQjlDOTEwNz/hCMTQwOTdDN0Q1QUVGQTQ1MTU2MDZBRUQwQjEzNzA0QTFFNUY4RDEucG5n.png"
+  },
+  {
+    "n": "Oleander voor EUR Potmaat: Ø 17 cm Hoogte: ca. 60 VANAF - 28/06",
+    "p": "5.99",
+    "o": "VANAF Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "",
+    "l": "https://imgproxy-retcat.assets.schwarz/cs4qXciVuD1Cz4Mw7zS89Md9PfVkpMeRAtPWUWLnuSQ/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzAxNTBGMTk3RjkzQzc4NTZCODdCREE1NE/NDMUVDREQ1RjNDQkU3NkRGNUMzMEY0NTkxODNGREQ2RUM2NkUzNzYucG5n.png"
+  },
+  {
+    "n": "LU BASTOGNE voor EUR -23% 260 - 28/06",
+    "p": "1.49",
+    "o": "-23% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "260 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/7mxMXZaTjYkcBbUwFaDJ3kYBYEmrHoR0gkH1DRooQ5w/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS85MERCNTQ1NUIzQjA2QzExNjhBRDY4OUY/4NTk5NzMwNDQyODdBRTJGNzRGMzUyQzNCREVEQjUyRjEyRDc3ODhFLnBuZw.png"
+  },
+  {
+    "n": "Sesam volkoren brood voor met Lidl Plus -25% 800 - 28/06",
+    "p": "1.49",
+    "o": "-25% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "800 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/opnDUvl5eulz5vVUR9XwNksv4ThnoJwojHeRIsT7760/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9BMzk0M0M0QkMzRTEzRTA5OTRDQzhCOUY/yMjdEQUUzMzdDNUQ4QTA4OEE0REYxMzBEMTA0RjA3QzMzRjFGMEE1LnBuZw.png"
+  },
+  {
+    "n": "EHRMANN Grand Dessert voor EUR In verschillende varianten -21% 190 - 28/06",
+    "p": "0.89",
+    "o": "-21% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "190 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/RsHRGSlPgsxX5hNzOQM_Q7Kk7kxsy8HWVxpQXQ4yv8Q/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS82MDk0QUNFQkJBREUzOEQ2OTA4Mjg3RjV/FRUJFQkVBRkZFMUFCNjI2MTE1Mzk0MEM0QTk5RkJFQjhCQ0M0NTJELnBuZw.png"
+  },
+  {
+    "n": "LAY'S Party Mix voor EUR -19% 412 - 28/06",
+    "p": "3.49",
+    "o": "-19% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "412 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/1C5O5FmzsmZ2gDVrFPg1rrgtl_Jm0c6sfGA4UqqWXsA/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9BOEEyNDA5RTU1QzBFRUQ2MDU5Q0I5RDg/zMzdEMUI0RkMwQkQwNDdFNEZBOUZBQTVFOTA5N0E2MzI4ODI2MUVGLnBuZw.png"
+  },
+  {
+    "n": "Carpaccio voor met Lidl Plus -21% 123 - 28/06",
+    "p": "2.99",
+    "o": "-21% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "123 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/17Bcf0MP23Y9SDiD4zAPH-1i9qcDJDHpfRzf2Etk-uo/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0YxQTIwM0YxNjY3MTEzMTgwNkIzNzc0NT/RDM0Y0MEEzN0NFRjIwRkZFMzU1MkNEQjg3RjNBNTBBMDJFNUU1N0EucG5n.png"
+  },
+  {
+    "n": "Gruner veltliner Kamptal voor met Lidl Plus -24% 750 - 28/06",
+    "p": "4.87",
+    "o": "-24% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "87 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/Aaatt2Dk10uZjsgLAIsieIibATLjlJBNd2dbUVRUpNY/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0RFQzVGQ0IxMDRDOEY2M0YwQUE2N0JDRk/I2NDAxN0QzQkU0NEMxQjdGRTYzNjlFNTc4RDUzQ0JEOUExNEIxRjAucG5n.png"
+  },
+  {
+    "n": "DESPERADOS voor EUR -25% 500 - 28/06",
+    "p": "1.75",
+    "o": "-25% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "500 ML",
+    "l": "https://imgproxy-retcat.assets.schwarz/Z51JuJ6ZGVvCrXncpuNTpCvW90ZxYMz86t4cLppFucc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9FOEU0N0JFRUM3RThBOUE4OTYxNjNDNjV/DQ0QzQzFDNjI3RUMxMzIwRkM0RUQyNUM3NDIxQ0RENkY4Qzk3ODZBLnBuZw.png"
+  },
+  {
+    "n": "Kogelbiefstuk voor met Lidl Plus -16% 350 - 28/06",
+    "p": "6.99",
+    "o": "-16% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "350 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/zo8GxvVaFBomP8iWoJ5mwFZ01t2rtA7X_eO5uJ9tu4I/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzEzMTAxRjdCNTEzNUE2NDUyN0IwOUNFOE/FCRjM3QzM3OTZBQzFDMzA2ODc4NzY0NjZFRDc5QTJCQ0M4OEI0MjkucG5n.png"
+  },
+  {
+    "n": "Rundvlees hamburgers voor met Lidl Plus -19% 400 - 28/06",
+    "p": "3.99",
+    "o": "-19% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "400 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/PuzI-mAznu7vRc6typKl7NzarTiJhucPSrkDIuMefXM/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzlFNDkxMEU0Njc5QkZDM0E4NTY4MEIwME/U2NURBMUI5NDNBNjc3MzdBMDUyMUE5Q0FCMjFDM0ZBMjJBQUE4NUEucG5n.png"
+  },
+  {
+    "n": "CROKY Chips voor EUR In de varianten paprika en bolognese Elders € 200",
+    "p": "1.49",
+    "o": "Product gekocht op 03-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "200 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/6btvdFSTsBkheVbmHf8djwRK7AuJtZcOPeemy-UI2pc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS84N0NDMzE1OUVERTM4RjQzQTc4RkQ3MEE/xQzU2MEQxOTEzNjQwMzEwOERGRTMzMDhEMzZEMEM4Q0U1QUE5ODNFLnBuZw.png"
+  },
+  {
+    "n": "LASSIE Toverrijst voor EUR -25% 1 - 28/06",
+    "p": "1.99",
+    "o": "-25% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "1 KG",
+    "l": "https://imgproxy-retcat.assets.schwarz/dXmy0RYtxhQaaS4YPGQFkifQGq3PfImkxqAH3DKIU64/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9EMUYxMzAyOTUzMEQ2RTA5ODA1OEQzQ0E/zNTE5QjUwRjlFNDVBNzlCOUI4N0I4QTQ1QUE5RjBBMkM0QUFDNzA5LnBuZw.png"
+  },
+  {
+    "n": "BLUE BAND voor In verschillende varianten met Lidl Plus -25% 500 Prijsvoorbeeld: margarine/halvarine 500. Actieprijzen variëren € - €. 28/06",
+    "p": "1.49",
+    "o": "-25% Prijsvoorbeeld: Blue Band margarine/halvarine 500 g. Actieprijzen variëren van €1.49 - €2.69. Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "500 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/0mROji76xJFt6WRrw1QYPjMxKHGodOBXUUmKzrVaacY/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0YyRTE2ODdFRTZGQ0RDREQyRjM4QTY2Mz/I1MTU2QjM5MTM5NzI2ODQxOEFEREZDRjQwNDc0RjMyMzc3RkY4NzMucG5n.png"
+  },
+  {
+    "n": "NESTLÉ PURINA ONE voor EUR In de varianten kip en zalm -20% 800 - 28/06",
+    "p": "3.99",
+    "o": "-20% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "800 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/Z4YyxBA_AixNcjOiHDmZ4M7AAaFdSbAkM1cBALmtmIo/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS81MDA3QUYxNTdGNkM1QzRCNzA3MzE0MjE/4MEE4OUY3NzgzRDc0NjgyNzg5RTZBM0YwMUFBNzhBQkFFM0I3RUQ3LnBuZw.png"
+  },
+  {
+    "n": "DREFT Afwasmiddel Platinum quickwash voor EUR -47% 820 - 28/06",
+    "p": "3.33",
+    "o": "-47% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "820 ML",
+    "l": "https://imgproxy-retcat.assets.schwarz/mRwcj8ahRGCfUDsaoEOxeId0M7PhXsxPF3QkO726rGc/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS8xOEEzRDA4MjE5MkY0QkI5MTc2RjQwREF/BNUM3MkI4QjE0QTU0NjhFNkJFQTBDNjEwQTYzRTQxRTNFNjkwRDdDLnBuZw.png"
+  },
+  {
+    "n": "Cocktailtomaten voor met Lidl Plus -39% Schaal 500 - 28/06",
+    "p": "1.69",
+    "o": "-39% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "500 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/Sl-N4Z2ih4T0n2EuiW0nO8mzFO30Oeuw641kOzRVdI0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzRFMTQ0ODAyRUY1MTJEMkEyQTI0REYyRj/hCMDUyQkREN0QwNjJBNTk3QzUzRTZDQUM5QzEzRUI2RkFFOEIwMTIucG5n.png"
+  },
+  {
+    "n": "Wilde perziken voor met Lidl Plus -42% Schaal 1 - 28/06",
+    "p": "1.99",
+    "o": "-42% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "1 KG",
+    "l": "https://imgproxy-retcat.assets.schwarz/d6zdRLEcjc9GLKkdDlpBZshSpuo6D5q8dmZrumDQjfo/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzdFQ0FFNEE5MEQxMEI4MTJFN0U4MkU4Mz/QxMjRGNjA4REY3OEYwRjg2OTRGQ0FBMDRENDk4MUM1MEUzNDIwM0MucG5n.png"
+  },
+  {
+    "n": "MORA Oven & airfryer kroketten voor EUR -28% 4 - 28/06",
+    "p": "2.99",
+    "o": "-28% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "4 STUKS",
+    "l": "https://imgproxy-retcat.assets.schwarz/ofeqjaUYdKu6pprGDb3HMPiC72tE_6OvCWF0-avljPg/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50Lzc4NEU0NEQ1M0ExQUJGMzZENzBDMDZDNk/YwNTE0NjE3RkM4QkIxRjUxMTk1MEJBNTJEQkNBMzUwQjJERDI4RjEucG5n.png"
+  },
+  {
+    "n": "Pink Lady appels voor met Lidl Plus -30% Per kg - 28/06",
+    "p": "2.29",
+    "o": "-30% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "PER KG",
+    "l": "https://imgproxy-retcat.assets.schwarz/KIAvoSc53AHjQyTw0-As264T6JbJRHg8tgBOTqnCaYo/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50L0E4RDcyMThCNTVDMjUxQUZCMzBDQzcwOU/QxNjE2NDk3QkZGOUU2QzYwRTE0REQwM0I4MTMzMkQwRkUwNzA0RDgucG5n.png"
+  },
+  {
+    "n": "APPELSIENTJE Fruitdrink voor EUR In verschillende varianten Elders € 1",
+    "p": "0.99",
+    "o": "Product gekocht op 03-06-2026 bij Albert Heijn online Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "1 L",
+    "l": "https://imgproxy-retcat.assets.schwarz/Q9nKQybCyEnVJ4bB2htOX-TXGuJeW38Ue5rBAXvrJG0/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9CRDIxNTVEOTJGOTdFNjM3RkU0Q0M3NzV/DOTM1Njg3OTFDMzY4N0ZGOUUxNkMxNDNEMjE4MDk5OEY4MkM4QzAxLnBuZw.png"
+  },
+  {
+    "n": "Gemarineerde garnalenspies voor met Lidl Plus -33% 150 - 28/06",
+    "p": "2.99",
+    "o": "-33% Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "99 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/2WU-uiuSjWtcXVjfhfC-Qa4XxBS_aMpCa7qoJDHXc5Y/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvaW50LzdEMUIxRjk0NjdEMTg1NjU1NDZDMjU1OU/RFMzA5QzMwNjAwNjg3RjRDRkYyNDkwMjVERjFCODg5QkQyNTkyNjkucG5n.png"
+  },
+  {
+    "n": "ALMHOF Roomyoghurt voor In verschillende varianten met Lidl Plus 500",
+    "p": "1.49",
+    "o": "Alleen in de winkel vanaf 26/06 - 28/06",
+    "s": "500 G",
+    "l": "https://imgproxy-retcat.assets.schwarz/YWbZ-iUgjFULaiHosM6eto4do6lq4JQxAi9irSAhL9g/sm:1/exar:1:ce/w:427/h:320/cz/M6Ly9wcm9kLWNhd/GFsb2ctbWVkaWEvbmwvMS9DNkRDRkY3RUVFNjc4QjIxMjFFNUExNTI/2MzAxMDgwMjY0NTIxODBBQTk2MkYwMTlEREU3MTczRTYxNjU2OTU1LnBuZw.png"
   }
 ]
