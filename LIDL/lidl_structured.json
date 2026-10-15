@@ -133,6 +133,13 @@
     "l": null
   },
   {
+    "n": "Zalmfilet op huid voor EUR met Lidl Plus -25% 250",
+    "p": "4.49",
+    "o": "-25% Alleen in de winkel 12/10 - 18/10",
+    "s": "250 G",
+    "l": null
+  },
+  {
     "n": "Braadworstjes kleinverpakking voor EUR",
     "p": "1.99",
     "o": "Alleen in de winkel 12/10 - 18/10",
@@ -163,7 +170,7 @@
   {
     "n": "Geraspte mozzarella voor EUR MILBONA 500",
     "p": "4.99",
-    "o": "Alleen in de winkel 12/10 - 18/10",
+    "o": "Alleen in de winkel 12/10 - 22/11",
     "s": "500 G",
     "l": null
   },
@@ -184,7 +191,7 @@
   {
     "n": "Toiletpapier 2laags voor EUR FLORALYS 32 rollen",
     "p": "6.99",
-    "o": "Toiletpapier 2-laags voor 6.99 EUR Toiletpapier 2-laags Alleen in de winkel 12/10 - 18/10",
+    "o": "Toiletpapier 2-laags voor 6.99 EUR Toiletpapier 2-laags Alleen in de winkel 12/10 - 22/11",
     "s": "",
     "l": null
   },
@@ -198,7 +205,7 @@
   {
     "n": "Goudse extra belegen stuk voor EUR MILBONA 500",
     "p": "3.99",
-    "o": "Alleen in de winkel 12/10 - 18/10",
+    "o": "Alleen in de winkel 12/10 - 22/11",
     "s": "500 G",
     "l": null
   },
@@ -469,9 +476,9 @@
     "l": null
   },
   {
-    "n": "Volkoren roggebrood gesneden voor EUR MAITRE JEANPIERRE -38%",
+    "n": "Volkoren roggebrood gesneden voor EUR -38%",
     "p": "0.79",
-    "o": "MAITRE JEAN-PIERRE -38% Alleen in de winkel 12/10 - 25/10",
+    "o": "-38% Alleen in de winkel 12/10 - 25/10",
     "s": "",
     "l": null
   },
@@ -808,6 +815,13 @@
     "n": "Rozen voor EUR",
     "p": "2.99",
     "o": "Alleen in de winkel 14/10 - 18/10",
+    "s": "",
+    "l": null
+  },
+  {
+    "n": "Rozen voor EUR 2 10 stelen - 25/10",
+    "p": "2.99",
+    "o": "2 voor €5.- Alleen in de winkel vanaf 21/10 - 25/10",
     "s": "",
     "l": null
   },
