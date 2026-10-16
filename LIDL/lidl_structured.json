@@ -105,13 +105,6 @@
     "l": null
   },
   {
-    "n": "Extra mager rundergehakt voor EUR",
-    "p": "9.99",
-    "o": "Alleen in de winkel 12/10 - 22/11",
-    "s": "",
-    "l": null
-  },
-  {
     "n": "Duitse biefstuk voor EUR",
     "p": "7.49",
     "o": "Alleen in de winkel 12/10 - 22/11",
@@ -483,7 +476,7 @@
     "l": null
   },
   {
-    "n": "Spaghetti voor EUR COMBINO met Lidl Plus Goedkoper",
+    "n": "Spaghetti voor EUR ITALIAMO met Lidl Plus Goedkoper",
     "p": "0.67",
     "o": "Alleen in de winkel 12/10 - 18/10",
     "s": "",
@@ -577,13 +570,6 @@
     "n": "Groene olijven met knoflook voor EUR",
     "p": "3.49",
     "o": "Alleen in de winkel 12/10 - 18/10",
-    "s": "",
-    "l": null
-  },
-  {
-    "n": "CIEN voor EUR met Lidl Plus -24%",
-    "p": "1.19",
-    "o": "-24% Alleen in de winkel 12/10 - 18/10",
     "s": "",
     "l": null
   },
@@ -819,9 +805,9 @@
     "l": null
   },
   {
-    "n": "Rozen voor EUR 2 10 stelen - 25/10",
+    "n": "Rozen voor EUR 2 10 stelen - 01/11",
     "p": "2.99",
-    "o": "2 voor €5.- Alleen in de winkel vanaf 21/10 - 25/10",
+    "o": "2 voor €5.- Alleen in de winkel vanaf 28/10 - 01/11",
     "s": "",
     "l": null
   },
@@ -875,86 +861,86 @@
     "l": null
   },
   {
-    "n": "Deospray voor EUR DOVE",
+    "n": "Deospray voor EUR DOVE -50%",
     "p": "1.99",
-    "o": "-50% Alleen in de winkel vanaf 16/10 - 18/10",
+    "o": "-50% Alleen in de winkel 16/10 - 18/10",
     "s": "",
     "l": null
   },
   {
     "n": "Douchegel voor EUR DOVE",
     "p": "1.99",
-    "o": "Alleen in de winkel vanaf 16/10 - 22/10",
+    "o": "Alleen in de winkel 16/10 - 22/10",
     "s": "",
     "l": null
   },
   {
-    "n": "Haribo (Starmix Minis) voor EUR",
+    "n": "Haribo (Starmix Minis) voor EUR -26%",
     "p": "2.99",
-    "o": "-26% Alleen in de winkel vanaf 16/10 - 18/10",
+    "o": "-26% Alleen in de winkel 16/10 - 18/10",
     "s": "",
     "l": null
   },
   {
-    "n": "Grolsch voor EUR -24% 6x500 - 22/10",
+    "n": "Grolsch voor EUR -24% 6x500",
     "p": "5.49",
-    "o": "-24% Alleen in de winkel vanaf 16/10 - 22/10",
+    "o": "-24% Alleen in de winkel 16/10 - 22/10",
     "s": "6 X 500 ML",
     "l": null
   },
   {
     "n": "Grolsch 0.0 voor EUR",
     "p": "2.99",
-    "o": "Alleen in de winkel vanaf 16/10 - 18/10",
+    "o": "Alleen in de winkel 16/10 - 18/10",
     "s": "",
     "l": null
   },
   {
     "n": "Grolsch Radler 0.0 voor EUR",
     "p": "2.99",
-    "o": "Alleen in de winkel vanaf 16/10 - 22/10",
+    "o": "Alleen in de winkel 16/10 - 22/10",
     "s": "",
     "l": null
   },
   {
-    "n": "Grolsch Kanon voor EUR",
+    "n": "Grolsch Kanon voor EUR -26%",
     "p": "1.66",
-    "o": "-26% Alleen in de winkel vanaf 16/10 - 22/10",
+    "o": "-26% Alleen in de winkel 16/10 - 22/10",
     "s": "",
     "l": null
   },
   {
-    "n": "Eru Goudkuipje voor EUR",
+    "n": "Eru Goudkuipje voor EUR -31%",
     "p": "1.89",
-    "o": "-31% Alleen in de winkel vanaf 16/10 - 18/10",
+    "o": "-31% Alleen in de winkel 16/10 - 18/10",
     "s": "",
     "l": null
   },
   {
-    "n": "Knoflooksaus Turkse stijl voor EUR KANIA met Lidl Plus",
+    "n": "Knoflooksaus Turkse stijl voor EUR KANIA met Lidl Plus -24%",
     "p": "1.89",
-    "o": "-24% Alleen in de winkel vanaf 16/10 - 18/10",
+    "o": "-24% Alleen in de winkel 16/10 - 18/10",
     "s": "",
     "l": null
   },
   {
-    "n": "Voorgebakken verse friet voor EUR chef select met Lidl Plus",
+    "n": "Voorgebakken verse friet voor EUR chef select met Lidl Plus -29%",
     "p": "1.69",
-    "o": "-29% Alleen in de winkel vanaf 16/10 - 18/10",
+    "o": "-29% Alleen in de winkel 16/10 - 18/10",
     "s": "",
     "l": null
   },
   {
-    "n": "Kibbeling voor EUR met Lidl Plus",
+    "n": "Kibbeling voor EUR met Lidl Plus -25%",
     "p": "2.89",
-    "o": "-25% Alleen in de winkel vanaf 16/10 - 18/10",
+    "o": "-25% Alleen in de winkel 16/10 - 18/10",
     "s": "",
     "l": null
   },
   {
-    "n": "Mango voor EUR met Lidl Plus",
+    "n": "Mango voor EUR met Lidl Plus -44%",
     "p": "0.99",
-    "o": "-44% Alleen in de winkel vanaf 16/10 - 18/10",
+    "o": "-44% Alleen in de winkel 16/10 - 18/10",
     "s": "",
     "l": null
   }
