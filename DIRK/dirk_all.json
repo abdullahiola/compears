@@ -26306,13 +26306,6 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F256730_1_490150_639125562136041011.png?width=190"
   },
   {
-    "n": "Dreft Afwasmiddel quick wash",
-    "p": "3.99",
-    "o": "",
-    "s": "1,05 liter",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F225146_1_479597_638829006700931831.png?width=190"
-  },
-  {
     "n": "Blixer Vaatwasmachine reiniger",
     "p": "1.29",
     "o": "",
@@ -27468,13 +27461,6 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F256350_1_486086_639123573343390483.png?width=190"
   },
   {
-    "n": "Sundale Kristalsuiker",
-    "p": "0.88",
-    "o": "",
-    "s": "1.5 kg",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F2088_1_245764_637828686924008734.png?width=190"
-  },
-  {
     "n": "Home made Carrotcake met icing mix",
     "p": "2.85",
     "o": "",
@@ -27895,13 +27881,6 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F239867_1_482556_638947353191860042.png?width=190"
   },
   {
-    "n": "van 4.09 2 05 Holie's Crunchy muesli 4 nuts",
-    "p": "",
-    "o": "",
-    "s": "400 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F224511_1_450040_638810229528420389.png?width=190"
-  },
-  {
     "n": "Quaker Cruesli 4 nuts",
     "p": "5.65",
     "o": "",
@@ -28119,13 +28098,6 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F218420_1_476278_638767032572812450.png?width=190"
   },
   {
-    "n": "Leev Bio lentil wafels rosemary",
-    "p": "2.49",
-    "o": "",
-    "s": "117 g",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F191099_1_467312_638537820835604973.png?width=190"
-  },
-  {
     "n": "Holie's Granola peanut chocolate",
     "p": "4.09",
     "o": "",
@@ -28140,7 +28112,7 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F240795_1_482083_638929434510781933.png?width=190"
   },
   {
-    "n": "van 2.49 99 Koopmans Pannenkoekenmix glutenvrij",
+    "n": "van 2.69 99 Koopmans Pannenkoekenmix glutenvrij",
     "p": "",
     "o": "",
     "s": "400 g",
@@ -28168,6 +28140,13 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F484338_2026-10-19_04-06-07-856_003debb1-739c-4406-92e1-d970b2761c5e.png?width=190"
   },
   {
+    "n": "Leev Bio lentil wafels rosemary",
+    "p": "2.49",
+    "o": "",
+    "s": "117 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F467312_2026-10-19_12-55-23-572_57113e97-1347-4236-8410-e8acf42cc838.png?width=190"
+  },
+  {
     "n": "Smaakt Tempeh",
     "p": "3.79",
     "o": "",
@@ -28180,6 +28159,27 @@
     "o": "",
     "s": "20 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F459238_2026-10-19_04-06-10-555_ee217724-c7de-466b-a613-fa95a53437ba.png?width=190"
+  },
+  {
+    "n": "Qualino Goji bessen",
+    "p": "2.99",
+    "o": "",
+    "s": "130 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen/noPicture.png?width=190"
+  },
+  {
+    "n": "Theunisse Kokostopper chocolade",
+    "p": "2.49",
+    "o": "",
+    "s": "200 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F494422_2026-10-19_11-53-18-269_655c80c3-8e1b-459e-881a-f2268d699547.png?width=190"
+  },
+  {
+    "n": "Theunisse Kokostopper aardbei",
+    "p": "2.49",
+    "o": "",
+    "s": "200 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F494421_2026-10-08_10-23-19-337_97239c28-36cf-4cf8-9869-96169fda33df.png?width=190"
   },
   {
     "n": "van 6.99 3 50 Isostar Fast hydration powertabs lemon",
@@ -28348,6 +28348,20 @@
     "o": "",
     "s": "250 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F484923_2026-10-19_04-03-00-756_88c5667b-ccc5-4055-9012-7d9dfd6f7932.png?width=190"
+  },
+  {
+    "n": "Smaakt Tarwezemelen",
+    "p": "1.29",
+    "o": "",
+    "s": "200 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F403105_2026-10-19_11-53-05-976_dbbd9d1d-d5e8-450f-a9ad-d6be6bfd4f48.png?width=190"
+  },
+  {
+    "n": "Smaakt Gepofte tarwe",
+    "p": "1.89",
+    "o": "",
+    "s": "150 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F494749_2026-10-07_09-06-21-612_871ebd85-fd47-456f-bee4-f09c8a7ca85d.png?width=190"
   },
   {
     "n": "Zonnatura Bio wortelsap",
@@ -29442,14 +29456,14 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F248213_1_487183_639071166156285326.png?width=190"
   },
   {
-    "n": "van 4.49 3 99 Fresh & easy Poke bowl kip",
+    "n": "van 4.49 2 99 Fresh & easy Poke bowl kip",
     "p": "",
     "o": "",
     "s": "280 g",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F224752_1_478609_638814534306259375.png?width=190"
   },
   {
-    "n": "van 4.49 3 99 Fresh & easy Poke bowl zalm",
+    "n": "van 4.49 2 99 Fresh & easy Poke bowl zalm",
     "p": "",
     "o": "",
     "s": "280 g",
@@ -30072,6 +30086,13 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F138963_1_396393_638266676192613233.png?width=190"
   },
   {
+    "n": "van 1.39 1 29 1 de Beste Sellerie salade",
+    "p": "",
+    "o": "",
+    "s": "150 g",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F166456_1_393248_638261370695068443.png?width=190"
+  },
+  {
     "n": "1 de Beste Salade kipsaté",
     "p": "2.55",
     "o": "",
@@ -30506,13 +30527,6 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F492512_2026-07-24_09-34-00-490_38fcac95-419e-4f67-8f6d-b1e59b6ac238.png?width=190"
   },
   {
-    "n": "Eenpansgerecht griekse stijl verspakket Per stuk",
-    "p": "4.99",
-    "o": "",
-    "s": "",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F252593_1_472343_639083046817943831.png?width=190"
-  },
-  {
     "n": "Mealmasters Kip in roomsaus met pesto",
     "p": "5.49",
     "o": "",
@@ -30541,6 +30555,13 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F179482_1_460688_638405718210875917.png?width=190"
   },
   {
+    "n": "Verspakket bami ketjap Per stuk",
+    "p": "4.49",
+    "o": "",
+    "s": "",
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F230223_1_480553_638868957431056951.png?width=190"
+  },
+  {
     "n": "Verspakket kip rendang Per pakket",
     "p": "4.99",
     "o": "",
@@ -30548,11 +30569,11 @@
     "l": "https://web-fileserver.dirk.nl/artikelen%2F460777_2026-07-01_04-06-00-577_f9d83013-0eae-41f9-aaa5-1beb8b3838a9.png?width=190"
   },
   {
-    "n": "Verspakket bami ketjap Per stuk",
-    "p": "4.49",
+    "n": "Eenpansgerecht griekse stijl verspakket Per stuk",
+    "p": "4.99",
     "o": "",
     "s": "",
-    "l": "https://web-fileserver.dirk.nl/artikelen%2F230223_1_480553_638868957431056951.png?width=190"
+    "l": "https://web-fileserver.dirk.nl/artikelen%2F252593_1_472343_639083046817943831.png?width=190"
   },
   {
     "n": "Aviko Oma's smulfriet",
@@ -33112,7 +33133,7 @@
   {
     "n": "Robijn Vloeibaar wasmiddel caps 3 in 1",
     "p": "3.99",
-    "o": "ACTIE van 8.85",
+    "o": "ACTIE van 8.59",
     "s": "15 Stuks",
     "l": "https://web-fileserver.dirk.nl/artikelen%2F493172_2026-10-05_13-17-44-848_3b7555c4-8565-4ef3-83f6-d9c49f9aea7d.png?width=190"
   },
