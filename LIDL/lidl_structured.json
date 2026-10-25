@@ -1,19 +1,5 @@
 [
   {
-    "n": "Andijvie voor EUR CHEF SELECT met Lidl Plus -20% 5001000",
-    "p": "1.59",
-    "o": "-20% 500-1000 g Alleen in de winkel 19/10 - 25/10",
-    "s": "1000 G",
-    "l": null
-  },
-  {
-    "n": "Gewassen spinazie voor EUR -45% Zak 450",
-    "p": "0.99",
-    "o": "-45% Alleen in de winkel 19/10 - 25/10",
-    "s": "450 G",
-    "l": null
-  },
-  {
     "n": "Fijngesneden boerenkool voor EUR CHEF SELECT met Lidl Plus -25% 500 - 01/11",
     "p": "1.49",
     "o": "-25% Alleen in de winkel vanaf 26/10 - 01/11",
@@ -21,373 +7,184 @@
     "l": null
   },
   {
-    "n": "Hutspot voor EUR CHEF SELECT met Lidl Plus -20% 5001000",
-    "p": "1.59",
-    "o": "-20% 500-1000 g Alleen in de winkel 19/10 - 25/10",
-    "s": "1000 G",
-    "l": null
-  },
-  {
-    "n": "Spruitjes geschoond voor EUR met Lidl Plus -25% 350",
-    "p": "1.49",
-    "o": "-25% Alleen in de winkel 19/10 - 25/10",
-    "s": "350 G",
-    "l": null
-  },
-  {
-    "n": "Stamppotaardappelen voor EUR CHEF SELECT met Lidl Plus -13% 1",
-    "p": "1.29",
-    "o": "-13% Alleen in de winkel 19/10 - 25/10",
-    "s": "1 KG",
-    "l": null
-  },
-  {
-    "n": "Witlof voor EUR met Lidl Plus Zak 500",
-    "p": "0.99",
-    "o": "Actie Alleen in de winkel 19/10 - 25/10",
-    "s": "500 G",
-    "l": null
-  },
-  {
-    "n": "Spruiten voor EUR -32% Zak 750",
-    "p": "1.29",
-    "o": "-32% Alleen in de winkel 19/10 - 25/10",
-    "s": "750 G",
-    "l": null
-  },
-  {
-    "n": "Conference peren voor EUR met Lidl Plus -50%",
-    "p": "0.89",
-    "o": "-50% Alleen in de winkel 19/10 - 25/10",
-    "s": "",
-    "l": null
-  },
-  {
-    "n": "Ananas voor EUR met Lidl Plus Per stuk",
-    "p": "1.69",
-    "o": "Actie Alleen in de winkel 19/10 - 25/10",
-    "s": "PER STUK",
-    "l": null
-  },
-  {
-    "n": "Avocado in net voor EUR 750",
-    "p": "2.29",
-    "o": "Actie Alleen in de winkel 19/10 - 25/10",
-    "s": "750 G",
-    "l": null
-  },
-  {
-    "n": "Kiwibessen voor EUR met Lidl Plus -25% Schaal 125",
-    "p": "1.49",
-    "o": "Kiwi-bessen voor 1.49 EUR Kiwi-bessen -25% Alleen in de winkel 19/10 - 25/10",
-    "s": "125 G",
-    "l": null
-  },
-  {
-    "n": "Citroenen voor EUR -34% Net 500",
-    "p": "0.99",
-    "o": "-34% Alleen in de winkel 19/10 - 25/10",
-    "s": "500 G",
-    "l": null
-  },
-  {
-    "n": "Sjalotten voor EUR Net 500",
-    "p": "0.89",
-    "o": "Actie Alleen in de winkel 19/10 - 25/10",
-    "s": "500 G",
-    "l": null
-  },
-  {
-    "n": "Koffiebonen rood XXL voor EUR BELLAROM 36% volumevoordeel",
-    "p": "9.99",
-    "o": "Alleen in de winkel 19/10 - 25/10",
-    "s": "",
-    "l": null
-  },
-  {
-    "n": "Espresso koffiebonen voor EUR BELLAROM 36% volumevoordeel",
-    "p": "9.99",
-    "o": "Alleen in de winkel 19/10 - 25/10",
-    "s": "",
-    "l": null
-  },
-  {
-    "n": "Koffiebonen creme & aroma voor EUR BELLAROM 36% volumevoordeel",
-    "p": "9.99",
-    "o": "Alleen in de winkel 19/10 - 25/10",
-    "s": "",
-    "l": null
-  },
-  {
-    "n": "Zigeunergehaktschnitzel voor EUR 800",
-    "p": "5.99",
-    "o": "Alleen in de winkel 19/10 - 25/10",
-    "s": "800 G",
-    "l": null
-  },
-  {
-    "n": "Speklapjes voor EUR 25% volumevoordeel 800",
-    "p": "6.49",
-    "o": "Alleen in de winkel 19/10 - 25/10",
-    "s": "800 G",
-    "l": null
-  },
-  {
-    "n": "Braadworsten voor EUR met Lidl Plus -21% 400",
+    "n": "Maaltijdsalade Caesar voor EUR CHEF SELECT met Lidl Plus",
     "p": "2.49",
-    "o": "-21% Alleen in de winkel 19/10 - 25/10",
-    "s": "400 G",
-    "l": null
-  },
-  {
-    "n": "Rundvlees hamburgers voor EUR 26% volumevoordeel 1",
-    "p": "8.79",
-    "o": "Alleen in de winkel 19/10 - 25/10",
-    "s": "",
-    "l": null
-  },
-  {
-    "n": "Kipfilet voor EUR 30% volumevoordeel 900",
-    "p": "9.49",
-    "o": "Alleen in de winkel 19/10 - 25/10",
-    "s": "900 G",
-    "l": null
-  },
-  {
-    "n": "Schouderkarbonade voor EUR 1",
-    "p": "5.69",
-    "o": "Alleen in de winkel 19/10 - 25/10",
-    "s": "",
-    "l": null
-  },
-  {
-    "n": "Achterham voor EUR ZWAGERMAN met Lidl Plus -16% 150",
-    "p": "1.49",
-    "o": "-16% Alleen in de winkel 19/10 - 25/10",
-    "s": "150 G",
-    "l": null
-  },
-  {
-    "n": "Pinky donuts voor EUR 4pack",
-    "p": "1.99",
-    "o": "4-pack Alleen in de winkel 19/10 - 25/10",
-    "s": "",
-    "l": null
-  },
-  {
-    "n": "Runderrookvlees voor EUR ZWAGERMAN met Lidl Plus Goedkoper 100",
-    "p": "2.49",
-    "o": "Alleen in de winkel 19/10 - 25/10",
-    "s": "100 G",
-    "l": null
-  },
-  {
-    "n": "Gerookte zalm voor EUR OCEAN SEA -25% 200",
-    "p": "4.49",
-    "o": "-25% Alleen in de winkel 19/10 - 25/10",
-    "s": "200 G",
-    "l": null
-  },
-  {
-    "n": "Kaiserbroodjes voor EUR met Lidl Plus -32% Per stuk",
-    "p": "0.19",
-    "o": "-32% Alleen in de winkel 19/10 - 25/10",
-    "s": "PER STUK",
-    "l": null
-  },
-  {
-    "n": "Saucijzenbroodje voor EUR met Lidl Plus -30% Per stuk",
-    "p": "0.69",
-    "o": "-30% Alleen in de winkel 19/10 - 25/10",
-    "s": "PER STUK",
-    "l": null
-  },
-  {
-    "n": "Broodje kroket voor EUR Per stuk",
-    "p": "1.29",
-    "o": "Alleen in de winkel 19/10 - 25/10",
-    "s": "PER STUK",
-    "l": null
-  },
-  {
-    "n": "Boerenbruin heel voor EUR 800",
-    "p": "1.19",
-    "o": "Actie Alleen in de winkel 19/10 - 25/10",
-    "s": "800 G",
-    "l": null
-  },
-  {
-    "n": "Krentenbollen voor EUR met Lidl Plus -20% 6",
-    "p": "1.19",
-    "o": "-20% Alleen in de winkel 19/10 - 25/10",
-    "s": "6 STUKS",
-    "l": null
-  },
-  {
-    "n": "Dulce de Leche muffin voor EUR Per stuk",
-    "p": "1.49",
-    "o": "Alleen in de winkel 19/10 - 25/10",
-    "s": "PER STUK",
-    "l": null
-  },
-  {
-    "n": "Cookie red velvet voor EUR Per stuk",
-    "p": "0.89",
-    "o": "Alleen in de winkel 19/10 - 25/10",
-    "s": "PER STUK",
-    "l": null
-  },
-  {
-    "n": "Katja alpaca cola voor EUR",
-    "p": "1.99",
-    "o": "250-295 g Alleen in de winkel 19/10 - 29/11",
+    "o": "250-295 g Alleen in de winkel vanaf 26/10 - 01/11",
     "s": "295 G",
     "l": null
   },
   {
-    "n": "Kapsalon voor EUR CHEF SELECT 590",
-    "p": "5.99",
-    "o": "Alleen in de winkel 19/10 - 25/10",
-    "s": "590 G",
+    "n": "Aardappelschijfjes voor EUR SALADINETTES met Lidl Plus -23% 700 - 01/11",
+    "p": "0.99",
+    "o": "-23% Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "700 G",
     "l": null
   },
   {
-    "n": "Schenkstroop voor EUR BELBAKE met Lidl Plus -18% 500",
-    "p": "1.29",
-    "o": "-18% Alleen in de winkel 19/10 - 25/10",
+    "n": "Cashewnoten voor EUR ALESTO 500",
+    "p": "4.99",
+    "o": "Alleen in de winkel vanaf 26/10 - 01/11",
     "s": "500 G",
     "l": null
   },
   {
-    "n": "Verse rookworst voor EUR ZWAGERMAN met Lidl Plus -20% 275",
-    "p": "2.15",
-    "o": "-20% Alleen in de winkel 19/10 - 25/10",
-    "s": "275 G",
-    "l": null
-  },
-  {
-    "n": "Kreukelfriet voor EUR HARVEST BASKET -35% 1",
-    "p": "1.49",
-    "o": "-35% Alleen in de winkel 19/10 - 25/10",
-    "s": "1 KG",
-    "l": null
-  },
-  {
-    "n": "Hertog Jan Weizener voor EUR 4 x 0,5/6 l",
-    "p": "0.33",
-    "o": "Alleen in de winkel 21/09 - 29/11",
-    "s": "4 X 0,5 L/6 X 0,33 L ALLEEN IN DE WINKEL 21/09 - 29/11",
-    "l": null
-  },
-  {
-    "n": "Gerardus bier voor EUR met Lidl Plus -16% 6 x l",
-    "p": "0.31",
-    "o": "-16% Alleen in de winkel 19/10 - 25/10",
-    "s": "6 X 0,31 L ALLEEN IN DE WINKEL 19/10 - 25/10",
-    "l": null
-  },
-  {
-    "n": "AUS Chardonnay voor EUR CIMAROSA met Lidl Plus -25% l",
-    "p": "0.75",
-    "o": "-25% Alleen in de winkel 19/10 - 25/10",
-    "s": "75 L",
-    "l": null
-  },
-  {
-    "n": "DubbelFrisss Boost frambooscranberry voor EUR 1,5",
-    "p": "0.98",
-    "o": "DubbelFrisss Boost framboos-cranberry voor 0.98 EUR DubbelFrisss Boost framboos-cranberry Alleen in de winkel 19/10 - 29/11",
-    "s": "5 L",
-    "l": null
-  },
-  {
-    "n": "DubbelFrisss Boost ananasmango voor EUR 1,5",
-    "p": "0.98",
-    "o": "DubbelFrisss Boost ananas-mango voor 0.98 EUR DubbelFrisss Boost ananas-mango Alleen in de winkel 19/10 - 29/11",
-    "s": "5 L",
-    "l": null
-  },
-  {
-    "n": "DUBBEL FRISSS Boost bosvruchtenappel voor EUR 1,5",
-    "p": "0.98",
-    "o": "DUBBEL FRISSS Boost bosvruchten-appel voor 0.98 EUR DUBBEL FRISSS Boost bosvruchten-appel Alleen in de winkel 19/10 - 29/11",
-    "s": "5 L",
-    "l": null
-  },
-  {
-    "n": "DubbelFrisss Boost voor EUR 1,5",
-    "p": "0.98",
-    "o": "Alleen in de winkel 19/10 - 29/11",
-    "s": "5 L",
-    "l": null
-  },
-  {
-    "n": "Primitivo di Manduria DOC voor EUR -25% l",
-    "p": "0.75",
-    "o": "-25% Alleen in de winkel 19/10 - 25/10",
-    "s": "75 L",
-    "l": null
-  },
-  {
-    "n": "Oasis orange voor EUR 2",
-    "p": "2.49",
-    "o": "Alleen in de winkel 19/10 - 29/11",
-    "s": "2 L",
-    "l": null
-  },
-  {
-    "n": "Nutella voor EUR 825",
-    "p": "5.89",
-    "o": "Alleen in de winkel 19/10 - 29/11",
-    "s": "825 G",
-    "l": null
-  },
-  {
-    "n": "Plakken Goudse jong belegen kaas voor EUR MILBONA 26% volumevoordeel 500",
+    "n": "Tissuedoos aloëvera voor EUR CIEN",
     "p": "3.49",
-    "o": "Alleen in de winkel 19/10 - 25/10",
+    "o": "Tissuedoos aloë-vera voor 3.49 EUR Tissuedoos aloë-vera Actie Alleen in de winkel 05/10 - 29/11",
+    "s": "",
+    "l": null
+  },
+  {
+    "n": "Koffie goud voor EUR BELLAROM 2 x 500",
+    "p": "7.99",
+    "o": "Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "2 X 500 G",
+    "l": null
+  },
+  {
+    "n": "Plantaardige hamburgers voor EUR VEMONDO met Lidl Plus -13% 227 - 01/11",
+    "p": "1.89",
+    "o": "-13% Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "227 G",
+    "l": null
+  },
+  {
+    "n": "Schnittbroodje voor EUR met Lidl Plus -32% Per stuk - 01/11",
+    "p": "0.19",
+    "o": "-32% Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "PER STUK",
+    "l": null
+  },
+  {
+    "n": "Frikandelbroodje voor EUR XXL Per stuk",
+    "p": "0.98",
+    "o": "Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "PER STUK",
+    "l": null
+  },
+  {
+    "n": "Karamel pencee voor EUR 4pack Pak 4 - 01/11",
+    "p": "2.79",
+    "o": "4-pack Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "4 STUKS",
+    "l": null
+  },
+  {
+    "n": "Ovenverse roomboter appeltaart voor EUR - Hele taart 68 personen 01/11",
+    "p": "2.49",
+    "o": "- Voor 6-8 personen Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "",
+    "l": null
+  },
+  {
+    "n": "Gevulde koek voor EUR met Lidl Plus -28% Per stuk - 01/11",
+    "p": "0.49",
+    "o": "-28% Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "PER STUK",
+    "l": null
+  },
+  {
+    "n": "Spekreepjes voor EUR ZWAGERMAN 380",
+    "p": "2.99",
+    "o": "Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "380 G",
+    "l": null
+  },
+  {
+    "n": "Extra mager rundergehakt voor EUR 750",
+    "p": "9.99",
+    "o": "Alleen in de winkel 12/10 - 22/11",
+    "s": "750 G",
+    "l": null
+  },
+  {
+    "n": "Runderriblappen voor EUR - met Lidl Plus -17% 700 01/11",
+    "p": "8.99",
+    "o": "- -17% Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "700 G",
+    "l": null
+  },
+  {
+    "n": "Gekruide varkensoester voor EUR - 300 01/11",
+    "p": "4.49",
+    "o": "- Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "300 G",
+    "l": null
+  },
+  {
+    "n": "Hamlappen voor EUR - 960 01/11",
+    "p": "7.99",
+    "o": "- Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "960 G",
+    "l": null
+  },
+  {
+    "n": "Verse zalmfilet op huid voor EUR - 500 01/11",
+    "p": "7.99",
+    "o": "- Alleen in de winkel vanaf 26/10 - 01/11",
     "s": "500 G",
     "l": null
   },
   {
-    "n": "Gerardus bier blond voor EUR met Lidl Plus -16% 6 x l",
-    "p": "0.31",
-    "o": "-16% Alleen in de winkel 19/10 - 25/10",
-    "s": "6 X 0,31 L ALLEEN IN DE WINKEL 19/10 - 25/10",
+    "n": "Kipkaassschnitzels voor EUR - 500 01/11",
+    "p": "5.99",
+    "o": "Kip-kaassschnitzels voor 5.99 EUR - Kip-kaassschnitzels Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "500 G",
     "l": null
   },
   {
-    "n": "12pack voor EUR Voordeelverpakking 12 x l",
-    "p": "0.25",
-    "o": "12-pack voor 8.99 EUR 12-pack Alleen in de winkel 19/10 - 22/11",
-    "s": "12 X 0,25 L ALLEEN IN DE WINKEL 19/10 - 22/11",
+    "n": "Scharrelkipdijreepjes ahoarma voor EUR met Lidl Plus -20% 500 - 01/11",
+    "p": "4.79",
+    "o": "-20% Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "500 G",
     "l": null
   },
   {
-    "n": "Leffe Blond voor EUR 4 x 0,5/6 l",
-    "p": "0.33",
-    "o": "Alleen in de winkel 19/10 - 22/11",
-    "s": "4 X 0,5 L/6 X 0,33 L ALLEEN IN DE WINKEL 19/10 - 22/11",
+    "n": "Aardappelgratin voor EUR CHEF SELECT 450 - 01/11",
+    "p": "1.79",
+    "o": "Actie Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "450 G",
     "l": null
   },
   {
-    "n": "Tripel karmeliet voor EUR -25% 4 x l",
-    "p": "0.33",
-    "o": "-25% Alleen in de winkel 19/10 - 25/10",
-    "s": "4 X 0,33 L ALLEEN IN DE WINKEL 19/10 - 25/10",
+    "n": "Goudse extra belegen plakken voor EUR MILBONA 500",
+    "p": "4.99",
+    "o": "Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "500 G",
     "l": null
   },
   {
-    "n": "Sultana voor EUR",
-    "p": "1.89",
-    "o": "175-218 g Alleen in de winkel 19/10 - 29/11",
-    "s": "218 G",
+    "n": "Goudse belegen stuk 48+ voor EUR MILBONA met Lidl Plus -17% 910 - 01/11",
+    "p": "6.99",
+    "o": "-17% Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "910 G",
     "l": null
   },
   {
-    "n": "Chrysant voor EUR",
-    "p": "1.49",
-    "o": "Actie Alleen in de winkel 21/10 - 25/10",
+    "n": "Knorr fix voor EUR",
+    "p": "0.99",
+    "o": "35-65 g Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "65 G",
+    "l": null
+  },
+  {
+    "n": "IT Pinot Grigio Italien premium DOP voor EUR - met Lidl Plus -25% l 01/11",
+    "p": "0.75",
+    "o": "- -25% Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "75 L",
+    "l": null
+  },
+  {
+    "n": "IT Primitivo Puglia IGT voor EUR met Lidl Plus -25% l - 01/11",
+    "p": "0.75",
+    "o": "-25% Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "75 L",
+    "l": null
+  },
+  {
+    "n": "Chrysant voor EUR Potmaat: Ø 12 cm Hoogte: ca. 25",
+    "p": "1.39",
+    "o": "Alleen in de winkel vanaf 28/10 - 01/11",
     "s": "",
     "l": null
   },
@@ -399,108 +196,87 @@
     "l": null
   },
   {
-    "n": "Orchidee 2taks voor EUR",
-    "p": "7.49",
-    "o": "Orchidee 2-taks voor 7.49 EUR Orchidee 2-taks Alleen in de winkel 23/10 - 25/10",
-    "s": "",
+    "n": "IT DdS Appassimento Puglia Rosso voor EUR IWB ITALIA met Lidl Plus -25% l - 01/11",
+    "p": "0.75",
+    "o": "-25% Alleen in de winkel vanaf 30/10 - 01/11",
+    "s": "75 L",
     "l": null
   },
   {
-    "n": "Bonsai in keramiek voor EUR DUMMYMARKE",
-    "p": "29.99",
-    "o": "Actie Alleen in de winkel 23/10 - 25/10",
-    "s": "",
-    "l": null
-  },
-  {
-    "n": "Calluna Vulgaris voor EUR",
-    "p": "2.29",
-    "o": "Alleen in de winkel 21/10 - 25/10",
-    "s": "",
-    "l": null
-  },
-  {
-    "n": "Afrikaanse melkboom voor EUR",
-    "p": "3.99",
-    "o": "Alleen in de winkel 21/10 - 25/10",
-    "s": "",
-    "l": null
-  },
-  {
-    "n": "Desem steenoven baguette meergranen voor EUR met Lidl Plus -30%",
-    "p": "0.69",
-    "o": "-30% Alleen in de winkel 23/10 - 25/10",
-    "s": "",
-    "l": null
-  },
-  {
-    "n": "Scharrelkipdrumsticks voor EUR met Lidl Plus -22%",
-    "p": "4.99",
-    "o": "-22% Alleen in de winkel 23/10 - 29/10",
-    "s": "",
-    "l": null
-  },
-  {
-    "n": "Scharrelkipdrumsticks gekruid voor EUR met Lidl Plus -22%",
-    "p": "4.99",
-    "o": "-22% Alleen in de winkel 23/10 - 29/10",
-    "s": "",
-    "l": null
-  },
-  {
-    "n": "Sable druiven voor EUR met Lidl Plus -50% Schaal 400",
-    "p": "1.49",
-    "o": "-50% Alleen in de winkel 23/10 - 25/10",
-    "s": "400 G",
-    "l": null
-  },
-  {
-    "n": "Ruby Dream druiven voor EUR met Lidl Plus -50% Schaal 400",
-    "p": "1.49",
-    "o": "-50% Alleen in de winkel 23/10 - 25/10",
-    "s": "400 G",
-    "l": null
-  },
-  {
-    "n": "Premium druiven Crunchy Dream voor EUR met Lidl Plus -50% Schaal 400",
-    "p": "1.49",
-    "o": "-50% Alleen in de winkel 23/10 - 25/10",
-    "s": "400 G",
-    "l": null
-  },
-  {
-    "n": "Olijfolie voor EUR PRIMADONNA met Lidl Plus 1,5",
-    "p": "9.99",
-    "o": "Alleen in de winkel 23/10 - 29/10",
+    "n": "Chocomel voor EUR met Lidl Plus -27% 1,5 - 05/11",
+    "p": "2.19",
+    "o": "-27% Alleen in de winkel vanaf 30/10 - 05/11",
     "s": "5 L",
     "l": null
   },
   {
-    "n": "De Ruijter hagelslag voor EUR HEINZ met Lidl Plus -27% 390",
-    "p": "2.49",
-    "o": "-27% Alleen in de winkel 23/10 - 29/10",
-    "s": "390 G",
-    "l": null
-  },
-  {
-    "n": "Slavink hybride voor EUR met Lidl Plus -20% 400",
-    "p": "2.99",
-    "o": "-20% Alleen in de winkel 23/10 - 29/10",
-    "s": "400 G",
-    "l": null
-  },
-  {
-    "n": "Lipton Ice Tea voor EUR met Lidl Plus -35% 1,5",
+    "n": "Rustiek meergranen desem voor EUR met Lidl Plus",
     "p": "1.69",
-    "o": "-35% Alleen in de winkel 23/10 - 29/10",
-    "s": "5 L",
+    "o": "-23% Alleen in de winkel vanaf 30/10 - 01/11",
+    "s": "",
     "l": null
   },
   {
-    "n": "Fritessaus voor EUR 750",
-    "p": "2.49",
-    "o": "Actie Alleen in de winkel 23/10 - 29/10",
-    "s": "750 ML",
+    "n": "Kogelbiefstuk voor EUR - met Lidl Plus -16% 350 05/11",
+    "p": "6.99",
+    "o": "- -16% Alleen in de winkel vanaf 30/10 - 05/11",
+    "s": "350 G",
+    "l": null
+  },
+  {
+    "n": "Smeerkaas sambal 45+ voor EUR MILBONA met Lidl Plus -41% 150200 - 01/11",
+    "p": "0.99",
+    "o": "-41% 150-200 g Alleen in de winkel vanaf 30/10 - 01/11",
+    "s": "200 G",
+    "l": null
+  },
+  {
+    "n": "Smeerkaas sambal 20+ voor EUR MILBONA met Lidl Plus -41% 150200 - 01/11",
+    "p": "0.99",
+    "o": "-41% 150-200 g Alleen in de winkel vanaf 30/10 - 01/11",
+    "s": "200 G",
+    "l": null
+  },
+  {
+    "n": "Smeerkaas naturel 48+ voor EUR MILBONA met Lidl Plus -41% 150200 - 01/11",
+    "p": "0.99",
+    "o": "-41% 150-200 g Alleen in de winkel vanaf 30/10 - 01/11",
+    "s": "200 G",
+    "l": null
+  },
+  {
+    "n": "Maaza Magno voor EUR 1",
+    "p": "1.49",
+    "o": "Alleen in de winkel vanaf 30/10 - 05/11",
+    "s": "1 L",
+    "l": null
+  },
+  {
+    "n": "Maaza Guava voor EUR 1",
+    "p": "1.49",
+    "o": "Alleen in de winkel vanaf 30/10 - 05/11",
+    "s": "1 L",
+    "l": null
+  },
+  {
+    "n": "Tropical voor EUR 1",
+    "p": "1.49",
+    "o": "Alleen in de winkel vanaf 30/10 - 05/11",
+    "s": "1 L",
+    "l": null
+  },
+  {
+    "n": "ALESTO",
+    "p": "",
+    "o": "Alleen in de winkel vanaf 26/10 - 01/11",
+    "s": "",
+    "l": null
+  },
+  {
+    "n": "DORITOS pure paprika",
+    "p": "",
+    "o": "Alleen in de winkel vanaf 30/10 - 01/11",
+    "s": "",
     "l": null
   }
 ]
