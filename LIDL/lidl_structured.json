@@ -56,9 +56,9 @@
     "l": null
   },
   {
-    "n": "Cruffin voor EUR - Per stuk",
+    "n": "Cruffin voor EUR Per stuk",
     "p": "0.89",
-    "o": "- Actie Alleen in de winkel 02/11 - 08/11",
+    "o": "Actie Alleen in de winkel 02/11 - 08/11",
     "s": "PER STUK",
     "l": null
   },
@@ -70,16 +70,16 @@
     "l": null
   },
   {
-    "n": "Pinsa mozzarella & pesto voor EUR - Per stuk",
+    "n": "Pinsa mozzarella & pesto voor EUR Per stuk",
     "p": "1.29",
-    "o": "- Alleen in de winkel 02/11 - 08/11",
+    "o": "Alleen in de winkel 02/11 - 08/11",
     "s": "PER STUK",
     "l": null
   },
   {
-    "n": "Kaasui broodje voor EUR - Nieuw Per stuk",
+    "n": "Kaasui broodje voor EUR Nieuw Per stuk",
     "p": "0.49",
-    "o": "Kaas-ui broodje voor 0.49 EUR - Kaas-ui broodje Alleen in de winkel 02/11 - 08/11",
+    "o": "Kaas-ui broodje voor 0.49 EUR Kaas-ui broodje Alleen in de winkel 02/11 - 08/11",
     "s": "PER STUK",
     "l": null
   },
@@ -217,7 +217,7 @@
     "l": null
   },
   {
-    "n": "Intens of Reine voor EUR 1",
+    "n": "Intens of Reine voor EUR SPA 1",
     "p": "0.79",
     "o": "Alleen in de winkel 02/11 - 08/11",
     "s": "1 L",
@@ -280,9 +280,9 @@
     "l": null
   },
   {
-    "n": "Carpaccio voor EUR met Lidl Plus -21% 123 Zonder 100 = - 08/11",
+    "n": "Carpaccio voor EUR - met Lidl Plus -21% 123 Zonder 100 = 08/11",
     "p": "2.99",
-    "o": "-21% Alleen in de winkel vanaf 05/11 - 08/11",
+    "o": "- -21% Alleen in de winkel vanaf 05/11 - 08/11",
     "s": "123 G",
     "l": null
   },
@@ -315,14 +315,14 @@
     "l": null
   },
   {
-    "n": "Brood- en toastsalade kip kerrie voor EUR 175 - 08/11",
+    "n": "Brood- en toastsalade kip kerrie voor EUR JOHMA 175 - 08/11",
     "p": "1.99",
     "o": "Brood- en toastsalade kip kerrie voor 1.99 EUR Brood- en toastsalade kip kerrie Alleen in de winkel vanaf 05/11 - 08/11",
     "s": "175 G",
     "l": null
   },
   {
-    "n": "Brood- en toastsalade ei voor EUR 175 - 08/11",
+    "n": "Brood- en toastsalade ei voor EUR JOHMA 175 - 08/11",
     "p": "1.99",
     "o": "Brood- en toastsalade ei voor 1.99 EUR Brood- en toastsalade ei Alleen in de winkel vanaf 05/11 - 08/11",
     "s": "175 G",
